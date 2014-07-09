@@ -1,0 +1,2781 @@
+---
+en:
+  cities:
+  - id: 101
+    province_id: 1
+    name: Muang krabi
+  - id: 102
+    province_id: 1
+    name: Ko lanta
+  - id: 103
+    province_id: 1
+    name: Khaong phanom
+  - id: 104
+    province_id: 1
+    name: Khlong thom
+  - id: 105
+    province_id: 1
+    name: Plai phraya
+  - id: 106
+    province_id: 1
+    name: Lum tub
+  - id: 107
+    province_id: 1
+    name: Nua klong
+  - id: 108
+    province_id: 1
+    name: Ao Luk
+  - id: 201
+    province_id: 2
+    name: Klongsan
+  - id: 202
+    province_id: 2
+    name: Klongtoey
+  - id: 203
+    province_id: 2
+    name: Chomthong
+  - id: 204
+    province_id: 2
+    name: Jatujak
+  - id: 205
+    province_id: 2
+    name: Dusit
+  - id: 206
+    province_id: 2
+    name: Don muang
+  - id: 207
+    province_id: 2
+    name: Taling chan
+  - id: 208
+    province_id: 2
+    name: Thon buri
+  - id: 209
+    province_id: 2
+    name: Bangkok noi
+  - id: 210
+    province_id: 2
+    name: Bangkok yai
+  - id: 211
+    province_id: 2
+    name: Bangkapi
+  - id: 212
+    province_id: 2
+    name: Bangkuntien
+  - id: 213
+    province_id: 2
+    name: Bang khen
+  - id: 214
+    province_id: 2
+    name: Bangkholam
+  - id: 215
+    province_id: 2
+    name: Bangsue
+  - id: 216
+    province_id: 2
+    name: Bangplad
+  - id: 217
+    province_id: 2
+    name: Bangrak
+  - id: 218
+    province_id: 2
+    name: Bung kum
+  - id: 219
+    province_id: 2
+    name: Prawet
+  - id: 220
+    province_id: 2
+    name: Patumwan
+  - id: 221
+    province_id: 2
+    name: Pom prap
+  - id: 222
+    province_id: 2
+    name: Payathai
+  - id: 223
+    province_id: 2
+    name: Prakanong
+  - id: 224
+    province_id: 2
+    name: Phranakhon
+  - id: 225
+    province_id: 2
+    name: Pasricharoen
+  - id: 226
+    province_id: 2
+    name: Minburi
+  - id: 227
+    province_id: 2
+    name: Yannawa
+  - id: 228
+    province_id: 2
+    name: Ratchathervi
+  - id: 229
+    province_id: 2
+    name: Radburana
+  - id: 230
+    province_id: 2
+    name: Lat Krabang
+  - id: 231
+    province_id: 2
+    name: Lat Phrao
+  - id: 232
+    province_id: 2
+    name: Sathorn
+  - id: 233
+    province_id: 2
+    name: Samphanthawongse
+  - id: 234
+    province_id: 2
+    name: Nongkhaem
+  - id: 235
+    province_id: 2
+    name: Nong chokn
+  - id: 236
+    province_id: 2
+    name: Huai khwang
+  - id: 237
+    province_id: 2
+    name: Suanluang
+  - id: 238
+    province_id: 2
+    name: Dindaeng
+  - id: 239
+    province_id: 2
+    name: Laksi
+  - id: 240
+    province_id: 2
+    name: Saimai
+  - id: 241
+    province_id: 2
+    name: Kannayao
+  - id: 242
+    province_id: 2
+    name: Saphansung
+  - id: 243
+    province_id: 2
+    name: Wang thonglang
+  - id: 244
+    province_id: 2
+    name: Klongsamwa
+  - id: 245
+    province_id: 2
+    name: Watthana
+  - id: 246
+    province_id: 2
+    name: Bangna
+  - id: 247
+    province_id: 2
+    name: Thawiwatthana
+  - id: 248
+    province_id: 2
+    name: Bangkhae
+  - id: 249
+    province_id: 2
+    name: Thung khru
+  - id: 250
+    province_id: 2
+    name: Bangbon
+  - id: 301
+    province_id: 3
+    name: Muang kanchanaburi
+  - id: 302
+    province_id: 3
+    name: Dan makham tia
+  - id: 303
+    province_id: 3
+    name: Thong pha phum
+  - id: 304
+    province_id: 3
+    name: Tha muang
+  - id: 305
+    province_id: 3
+    name: Tha maka
+  - id: 306
+    province_id: 3
+    name: Sai yok
+  - id: 307
+    province_id: 3
+    name: Bo phloi
+  - id: 308
+    province_id: 3
+    name: Phanom thoan
+  - id: 309
+    province_id: 3
+    name: Lao khwan
+  - id: 310
+    province_id: 3
+    name: Si sawat
+  - id: 311
+    province_id: 3
+    name: Sangkhla buri
+  - id: 312
+    province_id: 3
+    name: Nongprue
+  - id: 313
+    province_id: 3
+    name: Huai krajao
+  - id: 401
+    province_id: 4
+    name: Muang Kalasin
+  - id: 402
+    province_id: 4
+    name: Kamalasai
+  - id: 403
+    province_id: 4
+    name: Kuchinarat
+  - id: 404
+    province_id: 4
+    name: Khao wong
+  - id: 405
+    province_id: 4
+    name: Kham muang
+  - id: 406
+    province_id: 4
+    name: Tha khantho
+  - id: 407
+    province_id: 4
+    name: Na mon
+  - id: 408
+    province_id: 4
+    name: Yang talad
+  - id: 409
+    province_id: 4
+    name: Rong kham
+  - id: 410
+    province_id: 4
+    name: Somdet
+  - id: 411
+    province_id: 4
+    name: Sahasakan
+  - id: 412
+    province_id: 4
+    name: Nong kung srin
+  - id: 413
+    province_id: 4
+    name: Huai phung
+  - id: 414
+    province_id: 4
+    name: Huai mek
+  - id: 415
+    province_id: 4
+    name: Na ku
+  - id: 416
+    province_id: 4
+    name: Sam chai
+  - id: 417
+    province_id: 4
+    name: Don jan
+  - id: 418
+    province_id: 4
+    name: Khong chai
+  - id: 501
+    province_id: 5
+    name: Muang kamphaeng phet
+  - id: 502
+    province_id: 5
+    name: Khanu waralaksaburi
+  - id: 503
+    province_id: 5
+    name: Khlong khlung
+  - id: 504
+    province_id: 5
+    name: Khlong lan
+  - id: 505
+    province_id: 5
+    name: Saithong wattana
+  - id: 506
+    province_id: 5
+    name: Sai ngam
+  - id: 507
+    province_id: 5
+    name: Pang silathong
+  - id: 508
+    province_id: 5
+    name: Phran kratai
+  - id: 509
+    province_id: 5
+    name: Lan krabu
+  - id: 510
+    province_id: 5
+    name: ''
+  - id: 511
+    province_id: 5
+    name: ''
+  - id: 601
+    province_id: 6
+    name: Muang khonkean
+  - id: 602
+    province_id: 6
+    name: kranuan
+  - id: 603
+    province_id: 6
+    name: Khao suan kwang
+  - id: 604
+    province_id: 6
+    name: Khok pho chai
+  - id: 605
+    province_id: 6
+    name: Some sung
+  - id: 606
+    province_id: 6
+    name: Chonnabot
+  - id: 607
+    province_id: 6
+    name: Chum phae
+  - id: 608
+    province_id: 6
+    name: Nam phong
+  - id: 609
+    province_id: 6
+    name: Ban phai
+  - id: 610
+    province_id: 6
+    name: Ban fang
+  - id: 611
+    province_id: 6
+    name: Puai noi
+  - id: 612
+    province_id: 6
+    name: Phon
+  - id: 613
+    province_id: 6
+    name: Phra yun
+  - id: 614
+    province_id: 6
+    name: Phu wiang
+  - id: 615
+    province_id: 6
+    name: Phu pha man
+  - id: 616
+    province_id: 6
+    name: Mancha khiri
+  - id: 617
+    province_id: 6
+    name: Wang noi
+  - id: 618
+    province_id: 6
+    name: Wang yai
+  - id: 619
+    province_id: 6
+    name: Si chomphu
+  - id: 620
+    province_id: 6
+    name: Nong song hong
+  - id: 621
+    province_id: 6
+    name: Nong rua
+  - id: 622
+    province_id: 6
+    name: Nong na kham
+  - id: 623
+    province_id: 6
+    name: Ubol rat
+  - id: 624
+    province_id: 6
+    name: Non sila
+  - id: 625
+    province_id: 6
+    name: Ban haak
+  - id: 701
+    province_id: 7
+    name: Muang chanthaburi
+  - id: 702
+    province_id: 7
+    name: Kaeng hang maeo
+  - id: 703
+    province_id: 7
+    name: Khlung
+  - id: 704
+    province_id: 7
+    name: Tha mai
+  - id: 705
+    province_id: 7
+    name: Na yai am
+  - id: 706
+    province_id: 7
+    name: Pong nam ron
+  - id: 707
+    province_id: 7
+    name: Makham
+  - id: 708
+    province_id: 7
+    name: Soi dao
+  - id: 709
+    province_id: 7
+    name: Laem sing
+  - id: 710
+    province_id: 7
+    name: ''
+  - id: 801
+    province_id: 8
+    name: Muang Chachoengsao
+  - id: 802
+    province_id: 8
+    name: Bang khla
+  - id: 803
+    province_id: 8
+    name: Bang nam prieo
+  - id: 804
+    province_id: 8
+    name: Bangprakong
+  - id: 805
+    province_id: 8
+    name: Ban pho
+  - id: 806
+    province_id: 8
+    name: Piaeng yao
+  - id: 807
+    province_id: 8
+    name: Phanom sarakham
+  - id: 808
+    province_id: 8
+    name: Ratchasan
+  - id: 809
+    province_id: 8
+    name: Sanam chai khet
+  - id: 810
+    province_id: 8
+    name: Tha takep
+  - id: 811
+    province_id: 8
+    name: ''
+  - id: 901
+    province_id: 9
+    name: Muang chon buri
+  - id: 902
+    province_id: 9
+    name: Ko sichang
+  - id: 903
+    province_id: 9
+    name: Bo thong
+  - id: 904
+    province_id: 9
+    name: Bang lamung
+  - id: 905
+    province_id: 9
+    name: Ban bung
+  - id: 906
+    province_id: 9
+    name: Phan thong
+  - id: 907
+    province_id: 9
+    name: Phanat nikhom
+  - id: 908
+    province_id: 9
+    name: Siracha
+  - id: 909
+    province_id: 9
+    name: Sattahip
+  - id: 910
+    province_id: 9
+    name: Nong Yai
+  - id: 911
+    province_id: 9
+    name: Ko chan
+  - id: 1001
+    province_id: 10
+    name: Muang chai nat
+  - id: 1002
+    province_id: 10
+    name: Manorom
+  - id: 1003
+    province_id: 10
+    name: Wat singh
+  - id: 1004
+    province_id: 10
+    name: Sankhaburi
+  - id: 1005
+    province_id: 10
+    name: Sappraya
+  - id: 1006
+    province_id: 10
+    name: Hankha
+  - id: 1007
+    province_id: 10
+    name: Nongmanong
+  - id: 1008
+    province_id: 10
+    name: Noen kham
+  - id: 1101
+    province_id: 11
+    name: Muang chai yaphum
+  - id: 1102
+    province_id: 11
+    name: Kaset sombun
+  - id: 1103
+    province_id: 11
+    name: Kaeng khro
+  - id: 1104
+    province_id: 11
+    name: Khon sawan
+  - id: 1105
+    province_id: 11
+    name: Khon san
+  - id: 1106
+    province_id: 11
+    name: Chatturat
+  - id: 1107
+    province_id: 11
+    name: Thep sathit
+  - id: 1108
+    province_id: 11
+    name: Noen sanga
+  - id: 1109
+    province_id: 11
+    name: Ban klwao
+  - id: 1110
+    province_id: 11
+    name: Ban thaen
+  - id: 1111
+    province_id: 11
+    name: Bamnet narong
+  - id: 1112
+    province_id: 11
+    name: Phu khieo
+  - id: 1113
+    province_id: 11
+    name: Phakdi chum phon
+  - id: 1114
+    province_id: 11
+    name: Nong bua daeng
+  - id: 1115
+    province_id: 11
+    name: Nong bua rawe
+  - id: 1116
+    province_id: 11
+    name: Sap yai
+  - id: 1201
+    province_id: 12
+    name: Muang chum phon
+  - id: 1202
+    province_id: 12
+    name: tha sae
+  - id: 1203
+    province_id: 12
+    name: Thung tako
+  - id: 1204
+    province_id: 12
+    name: Pathiu
+  - id: 1205
+    province_id: 12
+    name: Phato
+  - id: 1206
+    province_id: 12
+    name: Lamae
+  - id: 1207
+    province_id: 12
+    name: Sawi
+  - id: 1208
+    province_id: 12
+    name: Lang suan
+  - id: 1301
+    province_id: 13
+    name: Muang chiang rai
+  - id: 1302
+    province_id: 13
+    name: Khun tan
+  - id: 1303
+    province_id: 13
+    name: Chiang khong
+  - id: 1304
+    province_id: 13
+    name: Chiang saen
+  - id: 1305
+    province_id: 13
+    name: Thoeng
+  - id: 1306
+    province_id: 13
+    name: Pa daet
+  - id: 1307
+    province_id: 13
+    name: Phan
+  - id: 1308
+    province_id: 13
+    name: Mae chan
+  - id: 1309
+    province_id: 13
+    name: Mae fa luang
+  - id: 1310
+    province_id: 13
+    name: Mae suai
+  - id: 1311
+    province_id: 13
+    name: Mae sai
+  - id: 1312
+    province_id: 13
+    name: Wiang Kaen
+  - id: 1313
+    province_id: 13
+    name: Wiang chai
+  - id: 1314
+    province_id: 13
+    name: Wiang pa pao
+  - id: 1315
+    province_id: 13
+    name: Phaya mengrai
+  - id: 1316
+    province_id: 13
+    name: Mae lao
+  - id: 1317
+    province_id: 13
+    name: Doi Luang
+  - id: 1318
+    province_id: 13
+    name: Wiang chiang rung
+  - id: 1401
+    province_id: 14
+    name: Muang chiang mai
+  - id: 1402
+    province_id: 14
+    name: chom thaon
+  - id: 1403
+    province_id: 14
+    name: Chiang dao
+  - id: 1404
+    province_id: 14
+    name: Chai prakan
+  - id: 1405
+    province_id: 14
+    name: Doi tao
+  - id: 1406
+    province_id: 14
+    name: Doi lo
+  - id: 1407
+    province_id: 14
+    name: Doi saket
+  - id: 1408
+    province_id: 14
+    name: Fang
+  - id: 1409
+    province_id: 14
+    name: Phrao
+  - id: 1410
+    province_id: 14
+    name: Mae chaem
+  - id: 1411
+    province_id: 14
+    name: Mae taeng
+  - id: 1412
+    province_id: 14
+    name: Mae rim
+  - id: 1413
+    province_id: 14
+    name: Mae wang
+  - id: 1414
+    province_id: 14
+    name: Mae ai
+  - id: 1415
+    province_id: 14
+    name: Mae on
+  - id: 1416
+    province_id: 14
+    name: Wiang haeng
+  - id: 1417
+    province_id: 14
+    name: Samoeng
+  - id: 1418
+    province_id: 14
+    name: Sankamphaeng
+  - id: 1419
+    province_id: 14
+    name: San sai
+  - id: 1420
+    province_id: 14
+    name: San pa tong
+  - id: 1421
+    province_id: 14
+    name: Saraphi
+  - id: 1422
+    province_id: 14
+    name: Hang dong
+  - id: 1423
+    province_id: 14
+    name: Omkoi
+  - id: 1424
+    province_id: 14
+    name: Hot
+  - id: 1501
+    province_id: 15
+    name: Muang trang
+  - id: 1502
+    province_id: 15
+    name: Kantang
+  - id: 1503
+    province_id: 15
+    name: Palian
+  - id: 1504
+    province_id: 15
+    name: Yan ta khao
+  - id: 1505
+    province_id: 15
+    name: Ratsada
+  - id: 1506
+    province_id: 15
+    name: Sikao
+  - id: 1507
+    province_id: 15
+    name: Huai Yot
+  - id: 1508
+    province_id: 15
+    name: Wang wiset
+  - id: 1509
+    province_id: 15
+    name: Had someran
+  - id: 1510
+    province_id: 15
+    name: Na yong
+  - id: 1601
+    province_id: 16
+    name: Muang trat
+  - id: 1602
+    province_id: 16
+    name: Chang island
+  - id: 1603
+    province_id: 16
+    name: Khao saming
+  - id: 1604
+    province_id: 16
+    name: Khlong yai
+  - id: 1605
+    province_id: 16
+    name: Bo rai
+  - id: 1606
+    province_id: 16
+    name: Laem ngob
+  - id: 1607
+    province_id: 16
+    name: Kut island
+  - id: 1701
+    province_id: 17
+    name: Muang tak
+  - id: 1702
+    province_id: 17
+    name: Tha song yang
+  - id: 1703
+    province_id: 17
+    name: Ban Tak
+  - id: 1704
+    province_id: 17
+    name: Prop phra
+  - id: 1705
+    province_id: 17
+    name: Mae ramat
+  - id: 1706
+    province_id: 17
+    name: Mae sot
+  - id: 1707
+    province_id: 17
+    name: Sam ngao
+  - id: 1708
+    province_id: 17
+    name: Um phang
+  - id: 1709
+    province_id: 17
+    name: Wang jao
+  - id: 1801
+    province_id: 18
+    name: Muang nakhon nayok
+  - id: 1802
+    province_id: 18
+    name: Ban na
+  - id: 1803
+    province_id: 18
+    name: Pak phli
+  - id: 1804
+    province_id: 18
+    name: Ongkharak
+  - id: 1901
+    province_id: 19
+    name: Muang nakhon pathom
+  - id: 1902
+    province_id: 19
+    name: Kampheng saen
+  - id: 1903
+    province_id: 19
+    name: Don tom
+  - id: 1904
+    province_id: 19
+    name: INakhon chaisi
+  - id: 1905
+    province_id: 19
+    name: Bang len
+  - id: 1906
+    province_id: 19
+    name: Bukkha monthon
+  - id: 1907
+    province_id: 19
+    name: Sam phran
+  - id: 2001
+    province_id: 20
+    name: Muang nakhon phanom
+  - id: 2002
+    province_id: 20
+    name: Tha uthen
+  - id: 2003
+    province_id: 20
+    name: That phanom
+  - id: 2004
+    province_id: 20
+    name: Na kae
+  - id: 2005
+    province_id: 20
+    name: Na wa
+  - id: 2006
+    province_id: 20
+    name: Ban phaeng
+  - id: 2007
+    province_id: 20
+    name: Pla pak
+  - id: 2008
+    province_id: 20
+    name: Phon sawan
+  - id: 2009
+    province_id: 20
+    name: Ranu nakhon
+  - id: 2010
+    province_id: 20
+    name: Si songkhram
+  - id: 2011
+    province_id: 20
+    name: Wong yang
+  - id: 2012
+    province_id: 20
+    name: Na thom
+  - id: 2101
+    province_id: 21
+    name: Muang nakhon ratchasima
+  - id: 2102
+    province_id: 21
+    name: Kaeng snam nang
+  - id: 2103
+    province_id: 21
+    name: Kham thaie so
+  - id: 2104
+    province_id: 21
+    name: Kham sakae saeng
+  - id: 2105
+    province_id: 21
+    name: Khong
+  - id: 2106
+    province_id: 21
+    name: Khon buri
+  - id: 2107
+    province_id: 21
+    name: Chakarat
+  - id: 2108
+    province_id: 21
+    name: Chum phuang
+  - id: 2109
+    province_id: 21
+    name: Chok chai
+  - id: 2110
+    province_id: 21
+    name: Dan khunthot
+  - id: 2111
+    province_id: 21
+    name: Non daeng
+  - id: 2112
+    province_id: 21
+    name: Non thai
+  - id: 2113
+    province_id: 21
+    name: Non sung
+  - id: 2114
+    province_id: 21
+    name: Bua yai
+  - id: 2115
+    province_id: 21
+    name: Ban luarm
+  - id: 2116
+    province_id: 21
+    name: Pra thai
+  - id: 2117
+    province_id: 21
+    name: Pak thong chai
+  - id: 2118
+    province_id: 21
+    name: Pak chong
+  - id: 2119
+    province_id: 21
+    name: Phimai
+  - id: 2120
+    province_id: 21
+    name: Wong namkhieo
+  - id: 2121
+    province_id: 21
+    name: Sikhui
+  - id: 2122
+    province_id: 21
+    name: Sung noe
+  - id: 2123
+    province_id: 21
+    name: Soeng sang
+  - id: 2124
+    province_id: 21
+    name: Huai thalaeng
+  - id: 2125
+    province_id: 21
+    name: Nong bunnak
+  - id: 2126
+    province_id: 21
+    name: Tepharak
+  - id: 2127
+    province_id: 21
+    name: Muang yang
+  - id: 2128
+    province_id: 21
+    name: Phra thorngkham
+  - id: 2129
+    province_id: 21
+    name: Lum thamen chai
+  - id: 2130
+    province_id: 21
+    name: Chaloem phrakiat
+  - id: 2131
+    province_id: 21
+    name: Sida
+  - id: 2132
+    province_id: 21
+    name: Bua lai
+  - id: 2201
+    province_id: 22
+    name: Muang nakhon si thammarat
+  - id: 2202
+    province_id: 22
+    name: Khanom
+  - id: 2203
+    province_id: 22
+    name: Chawang
+  - id: 2204
+    province_id: 22
+    name: Cha-uat
+  - id: 2205
+    province_id: 22
+    name: Chian yai
+  - id: 2206
+    province_id: 22
+    name: Tha sala
+  - id: 2207
+    province_id: 22
+    name: Thung yai
+  - id: 2208
+    province_id: 22
+    name: Thung song
+  - id: 2209
+    province_id: 22
+    name: Phra phrom
+  - id: 2210
+    province_id: 22
+    name: Na bon
+  - id: 2211
+    province_id: 22
+    name: Bang chan
+  - id: 2212
+    province_id: 22
+    name: Pak phanang
+  - id: 2213
+    province_id: 22
+    name: Phrommakhiri
+  - id: 2214
+    province_id: 22
+    name: Phipun
+  - id: 2215
+    province_id: 22
+    name: Ron pipun
+  - id: 2216
+    province_id: 22
+    name: Lan saka
+  - id: 2217
+    province_id: 22
+    name: Sichon
+  - id: 2218
+    province_id: 22
+    name: Hua sai
+  - id: 2219
+    province_id: 22
+    name: Chulaporn
+  - id: 2220
+    province_id: 22
+    name: Nop pitam
+  - id: 2221
+    province_id: 22
+    name: Chang klang
+  - id: 2222
+    province_id: 22
+    name: Tham phanara
+  - id: 2223
+    province_id: 22
+    name: Chaloem phrakiat
+  - id: 2301
+    province_id: 23
+    name: Muang nakhon sawan
+  - id: 2302
+    province_id: 23
+    name: Kao lieo
+  - id: 2303
+    province_id: 23
+    name: Krok phra
+  - id: 2304
+    province_id: 23
+    name: Chumsaeng
+  - id: 2305
+    province_id: 23
+    name: Tak fa
+  - id: 2306
+    province_id: 23
+    name: Takeli
+  - id: 2307
+    province_id: 23
+    name: Tha tako
+  - id: 2308
+    province_id: 23
+    name: Banphot phisai
+  - id: 2309
+    province_id: 23
+    name: Phayuha khiri
+  - id: 2310
+    province_id: 23
+    name: Phai Sali
+  - id: 2311
+    province_id: 23
+    name: Mae wong
+  - id: 2312
+    province_id: 23
+    name: Lao yao
+  - id: 2313
+    province_id: 23
+    name: Nong bua
+  - id: 2314
+    province_id: 23
+    name: ''
+  - id: 2315
+    province_id: 23
+    name: Chum ta bong
+  - id: 2401
+    province_id: 24
+    name: Muang nonthaburi
+  - id: 2402
+    province_id: 24
+    name: Sai noi
+  - id: 2403
+    province_id: 24
+    name: Bang kruai
+  - id: 2404
+    province_id: 24
+    name: Bang bua thong
+  - id: 2405
+    province_id: 24
+    name: Bang yai
+  - id: 2406
+    province_id: 24
+    name: Pakkred
+  - id: 2501
+    province_id: 25
+    name: Muang narathiwat
+  - id: 2502
+    province_id: 25
+    name: Chanao
+  - id: 2503
+    province_id: 25
+    name: Tak bai
+  - id: 2504
+    province_id: 25
+    name: Bacho
+  - id: 2505
+    province_id: 25
+    name: Yi-ngo
+  - id: 2506
+    province_id: 25
+    name: Rangae
+  - id: 2507
+    province_id: 25
+    name: Ruso
+  - id: 2508
+    province_id: 25
+    name: Waeng
+  - id: 2509
+    province_id: 25
+    name: Sisakhon
+  - id: 2510
+    province_id: 25
+    name: Sukhirin
+  - id: 2511
+    province_id: 25
+    name: Sungai kolok
+  - id: 2512
+    province_id: 25
+    name: Sungai padi
+  - id: 2513
+    province_id: 25
+    name: ''
+  - id: 2601
+    province_id: 26
+    name: Muang nan
+  - id: 2602
+    province_id: 26
+    name: Cheang klang
+  - id: 2603
+    province_id: 26
+    name: Tha wang pha
+  - id: 2604
+    province_id: 26
+    name: Thung chang
+  - id: 2605
+    province_id: 26
+    name: na noi
+  - id: 2606
+    province_id: 26
+    name: Na mun
+  - id: 2607
+    province_id: 26
+    name: Ban luang
+  - id: 2608
+    province_id: 26
+    name: Pua
+  - id: 2609
+    province_id: 26
+    name: Mae chrim
+  - id: 2610
+    province_id: 26
+    name: Wiang sa
+  - id: 2611
+    province_id: 26
+    name: Suntisuk
+  - id: 2612
+    province_id: 26
+    name: Bo kluai
+  - id: 2613
+    province_id: 26
+    name: Song kwar
+  - id: 2614
+    province_id: 26
+    name: Chaloem phrakiat
+  - id: 2615
+    province_id: 26
+    name: Phu pieng
+  - id: 2701
+    province_id: 27
+    name: Mueang Bueng Kan
+  - id: 2702
+    province_id: 27
+    name: Phon Charoen
+  - id: 2703
+    province_id: 27
+    name: So Phisai
+  - id: 2704
+    province_id: 27
+    name: Seka
+  - id: 2705
+    province_id: 27
+    name: Pak Khat
+  - id: 2706
+    province_id: 27
+    name: Bueng Khong Long
+  - id: 2707
+    province_id: 27
+    name: Si Wilai
+  - id: 2708
+    province_id: 27
+    name: Bung Khla
+  - id: 2801
+    province_id: 28
+    name: Muang buri ram
+  - id: 2802
+    province_id: 28
+    name: Krasang
+  - id: 2803
+    province_id: 28
+    name: Khu Muang
+  - id: 2804
+    province_id: 28
+    name: Cham ni
+  - id: 2805
+    province_id: 28
+    name: Na pho
+  - id: 2806
+    province_id: 28
+    name: Nang rong
+  - id: 2807
+    province_id: 28
+    name: Non din daeng
+  - id: 2808
+    province_id: 28
+    name: Non suwan
+  - id: 2809
+    province_id: 28
+    name: Ban kruat
+  - id: 2810
+    province_id: 28
+    name: Phlapphachai
+  - id: 2811
+    province_id: 28
+    name: Ban mai chaiyapot
+  - id: 2812
+    province_id: 28
+    name: Phakhon chai
+  - id: 2813
+    province_id: 28
+    name: Pa kham
+  - id: 2814
+    province_id: 28
+    name: Phutthaisong
+  - id: 2815
+    province_id: 28
+    name: Lahan sai
+  - id: 2816
+    province_id: 28
+    name: Lam plai mat
+  - id: 2817
+    province_id: 28
+    name: Satuk
+  - id: 2818
+    province_id: 28
+    name: Nong ki
+  - id: 2819
+    province_id: 28
+    name: Nong hong
+  - id: 2820
+    province_id: 28
+    name: Huai rat
+  - id: 2821
+    province_id: 28
+    name: Ban dan
+  - id: 2822
+    province_id: 28
+    name: Chaloem phrakiat
+  - id: 2823
+    province_id: 28
+    name: Can dong
+  - id: 2901
+    province_id: 29
+    name: Mung pathum thani
+  - id: 2902
+    province_id: 29
+    name: Klongluang
+  - id: 2903
+    province_id: 29
+    name: Thanyaburi
+  - id: 2904
+    province_id: 29
+    name: Lat lum kaeo
+  - id: 2905
+    province_id: 29
+    name: Lam luk ka
+  - id: 2906
+    province_id: 29
+    name: Sam khok
+  - id: 2907
+    province_id: 29
+    name: Nong sua
+  - id: 3001
+    province_id: 30
+    name: Mung prachuap khiri khan
+  - id: 3002
+    province_id: 30
+    name: Kui buri
+  - id: 3003
+    province_id: 30
+    name: Thap sakae
+  - id: 3004
+    province_id: 30
+    name: Bang saphan
+  - id: 3005
+    province_id: 30
+    name: Bang saphan noi
+  - id: 3006
+    province_id: 30
+    name: Pran buri
+  - id: 3007
+    province_id: 30
+    name: Hua hin
+  - id: 3008
+    province_id: 30
+    name: Sam roi yot
+  - id: 3101
+    province_id: 31
+    name: Muang prachinburi
+  - id: 3102
+    province_id: 31
+    name: Kabin buri
+  - id: 3103
+    province_id: 31
+    name: Sri maho sot
+  - id: 3104
+    province_id: 31
+    name: Nadi
+  - id: 3105
+    province_id: 31
+    name: Ban Sang
+  - id: 3106
+    province_id: 31
+    name: Prachantakham
+  - id: 3107
+    province_id: 31
+    name: Si maha phot
+  - id: 3201
+    province_id: 32
+    name: Muang pattani
+  - id: 3202
+    province_id: 32
+    name: Kapho
+  - id: 3203
+    province_id: 32
+    name: Khok pho
+  - id: 3204
+    province_id: 32
+    name: Thung yang daeng
+  - id: 3205
+    province_id: 32
+    name: Panara
+  - id: 3206
+    province_id: 32
+    name: Mayo
+  - id: 3207
+    province_id: 32
+    name: Mai kaen
+  - id: 3208
+    province_id: 32
+    name: Yarang
+  - id: 3209
+    province_id: 32
+    name: Yaring
+  - id: 3210
+    province_id: 32
+    name: Sai buri
+  - id: 3211
+    province_id: 32
+    name: Nong chik
+  - id: 3212
+    province_id: 32
+    name: Mae lan
+  - id: 3301
+    province_id: 33
+    name: Phranakhon si ayutthaya
+  - id: 3302
+    province_id: 33
+    name: Tha rua
+  - id: 3303
+    province_id: 33
+    name: Nakhon luang
+  - id: 3304
+    province_id: 33
+    name: Bang sai
+  - id: 3305
+    province_id: 33
+    name: Bang sai
+  - id: 3306
+    province_id: 33
+    name: Bang ban
+  - id: 3307
+    province_id: 33
+    name: Bang pahan
+  - id: 3308
+    province_id: 33
+    name: Bang pa-in
+  - id: 3309
+    province_id: 33
+    name: Ban phraek
+  - id: 3310
+    province_id: 33
+    name: Phak hai
+  - id: 3311
+    province_id: 33
+    name: Phachi
+  - id: 3312
+    province_id: 33
+    name: Maharat
+  - id: 3313
+    province_id: 33
+    name: Lat bua luang
+  - id: 3314
+    province_id: 33
+    name: Wang noi
+  - id: 3315
+    province_id: 33
+    name: Sena
+  - id: 3316
+    province_id: 33
+    name: Uthai
+  - id: 3401
+    province_id: 34
+    name: Muang Phayao
+  - id: 3402
+    province_id: 34
+    name: Chun
+  - id: 3403
+    province_id: 34
+    name: Chiang kham
+  - id: 3404
+    province_id: 34
+    name: Chiang muan
+  - id: 3405
+    province_id: 34
+    name: Dok kham tai
+  - id: 3406
+    province_id: 34
+    name: Pong
+  - id: 3407
+    province_id: 34
+    name: Mae chai
+  - id: 3408
+    province_id: 34
+    name: Phu sang
+  - id: 3409
+    province_id: 34
+    name: Phu kam yao
+  - id: 3501
+    province_id: 35
+    name: Muang phangnga
+  - id: 3502
+    province_id: 35
+    name: ka pong
+  - id: 3503
+    province_id: 35
+    name: ko yao
+  - id: 3504
+    province_id: 35
+    name: Khura buri
+  - id: 3505
+    province_id: 35
+    name: Takua thung
+  - id: 3506
+    province_id: 35
+    name: Takua pa
+  - id: 3507
+    province_id: 35
+    name: Thap put
+  - id: 3508
+    province_id: 35
+    name: Thai muang
+  - id: 3601
+    province_id: 36
+    name: Muang phatthalung
+  - id: 3602
+    province_id: 36
+    name: kong ra
+  - id: 3603
+    province_id: 36
+    name: Khao chaison
+  - id: 3604
+    province_id: 36
+    name: Khuan khanon
+  - id: 3605
+    province_id: 36
+    name: Tamot
+  - id: 3606
+    province_id: 36
+    name: Pak phayun
+  - id: 3607
+    province_id: 36
+    name: Pa bon
+  - id: 3608
+    province_id: 36
+    name: Pa phayom
+  - id: 3609
+    province_id: 36
+    name: Si banphot
+  - id: 3610
+    province_id: 36
+    name: Bang kaeo
+  - id: 3611
+    province_id: 36
+    name: ''
+  - id: 3701
+    province_id: 37
+    name: Muang phichit
+  - id: 3702
+    province_id: 37
+    name: Taphan hin
+  - id: 3703
+    province_id: 37
+    name: Thao khlo
+  - id: 3704
+    province_id: 37
+    name: Bang munnak
+  - id: 3705
+    province_id: 37
+    name: Pho thale
+  - id: 3706
+    province_id: 37
+    name: ''
+  - id: 3707
+    province_id: 37
+    name: Sam ngam
+  - id: 3708
+    province_id: 37
+    name: Wang sai phun
+  - id: 3709
+    province_id: 37
+    name: Sak lek
+  - id: 3710
+    province_id: 37
+    name: Bung narang
+  - id: 3711
+    province_id: 37
+    name: Dong charoen
+  - id: 3712
+    province_id: 37
+    name: ''
+  - id: 3801
+    province_id: 38
+    name: Muang phitsanulok
+  - id: 3802
+    province_id: 38
+    name: Nakhon thai
+  - id: 3803
+    province_id: 38
+    name: Chat trakan
+  - id: 3804
+    province_id: 38
+    name: Noen maprang
+  - id: 3805
+    province_id: 38
+    name: Bangkrathum
+  - id: 3806
+    province_id: 38
+    name: Bangrakam
+  - id: 3807
+    province_id: 38
+    name: Phrom phiram
+  - id: 3808
+    province_id: 38
+    name: Wang thong
+  - id: 3809
+    province_id: 38
+    name: Wat bot
+  - id: 3901
+    province_id: 39
+    name: muang phetchaburi
+  - id: 3902
+    province_id: 39
+    name: Kaeng kachan
+  - id: 3903
+    province_id: 39
+    name: khao yoi
+  - id: 3904
+    province_id: 39
+    name: Cha-am
+  - id: 3905
+    province_id: 39
+    name: Tha yang
+  - id: 3906
+    province_id: 39
+    name: Ban lat
+  - id: 3907
+    province_id: 39
+    name: Ban laerm
+  - id: 3908
+    province_id: 39
+    name: Nong ya plong
+  - id: 4001
+    province_id: 40
+    name: Muang phetchabun
+  - id: 4002
+    province_id: 40
+    name: Khao Kho
+  - id: 4003
+    province_id: 40
+    name: Chon daen
+  - id: 4004
+    province_id: 40
+    name: Nam nao
+  - id: 4005
+    province_id: 40
+    name: Bung sam phan
+  - id: 4006
+    province_id: 40
+    name: Wichian buri
+  - id: 4007
+    province_id: 40
+    name: Si thep
+  - id: 4008
+    province_id: 40
+    name: Nong Phai
+  - id: 4009
+    province_id: 40
+    name: Lom kao
+  - id: 4010
+    province_id: 40
+    name: Lom sak
+  - id: 4011
+    province_id: 40
+    name: Wang pong
+  - id: 4101
+    province_id: 41
+    name: Muangphrae
+  - id: 4102
+    province_id: 41
+    name: Den chai
+  - id: 4103
+    province_id: 41
+    name: Rong kwang
+  - id: 4104
+    province_id: 41
+    name: Long
+  - id: 4105
+    province_id: 41
+    name: Wang chin
+  - id: 4106
+    province_id: 41
+    name: Song
+  - id: 4107
+    province_id: 41
+    name: Nong muang kai
+  - id: 4108
+    province_id: 41
+    name: Sung men
+  - id: 4201
+    province_id: 42
+    name: Muangphuket
+  - id: 4202
+    province_id: 42
+    name: Kathu
+  - id: 4203
+    province_id: 42
+    name: Thalang
+  - id: 4301
+    province_id: 43
+    name: Muang mahasarakham
+  - id: 4302
+    province_id: 43
+    name: Kantharawichai
+  - id: 4303
+    province_id: 43
+    name: Kae dam
+  - id: 4304
+    province_id: 43
+    name: Kosum phisai
+  - id: 4305
+    province_id: 43
+    name: Chiang yun
+  - id: 4306
+    province_id: 43
+    name: Na chuak
+  - id: 4307
+    province_id: 43
+    name: Na dun
+  - id: 4308
+    province_id: 43
+    name: Borabu
+  - id: 4309
+    province_id: 43
+    name: Phayakhaphum phisai
+  - id: 4310
+    province_id: 43
+    name: Wapi pathum
+  - id: 4311
+    province_id: 43
+    name: Kut rang
+  - id: 4312
+    province_id: 43
+    name: Yang si surat
+  - id: 4313
+    province_id: 43
+    name: Chuenchom
+  - id: 4401
+    province_id: 44
+    name: Muang mukdahan
+  - id: 4402
+    province_id: 44
+    name: Khamcha-i
+  - id: 4403
+    province_id: 44
+    name: Dong luang
+  - id: 4404
+    province_id: 44
+    name: Don tan
+  - id: 4405
+    province_id: 44
+    name: Nikhom kham soi
+  - id: 4406
+    province_id: 44
+    name: Nong sung
+  - id: 4407
+    province_id: 44
+    name: Wan yai
+  - id: 4501
+    province_id: 45
+    name: Muang mae hong son
+  - id: 4502
+    province_id: 45
+    name: Khun yuam
+  - id: 4503
+    province_id: 45
+    name: Pang mapha
+  - id: 4504
+    province_id: 45
+    name: Pai
+  - id: 4505
+    province_id: 45
+    name: Mae la noi
+  - id: 4506
+    province_id: 45
+    name: Mae sariang
+  - id: 4507
+    province_id: 45
+    name: Sop moei
+  - id: 4601
+    province_id: 46
+    name: Muang yasothon
+  - id: 4602
+    province_id: 46
+    name: Kut chum
+  - id: 4603
+    province_id: 46
+    name: Kho wang
+  - id: 4604
+    province_id: 46
+    name: Kham khuan kaeo
+  - id: 4605
+    province_id: 46
+    name: Thai charoen
+  - id: 4606
+    province_id: 46
+    name: Sai mun
+  - id: 4607
+    province_id: 46
+    name: Pa tiu
+  - id: 4608
+    province_id: 46
+    name: Maha chana chai
+  - id: 4609
+    province_id: 46
+    name: Loeng nok tha
+  - id: 4701
+    province_id: 47
+    name: Muang yala
+  - id: 4702
+    province_id: 47
+    name: Kabang
+  - id: 4703
+    province_id: 47
+    name: ''
+  - id: 4704
+    province_id: 47
+    name: Than to
+  - id: 4705
+    province_id: 47
+    name: Bannang sata
+  - id: 4706
+    province_id: 47
+    name: Betong
+  - id: 4707
+    province_id: 47
+    name: Yaha
+  - id: 4708
+    province_id: 47
+    name: Raman
+  - id: 4801
+    province_id: 48
+    name: Muang roi et
+  - id: 4802
+    province_id: 48
+    name: Kaset visai
+  - id: 4803
+    province_id: 48
+    name: Chaturaphak phiman
+  - id: 4804
+    province_id: 48
+    name: Jung han
+  - id: 4805
+    province_id: 48
+    name: Thawatshaburi
+  - id: 4806
+    province_id: 48
+    name: Pathum rat
+  - id: 4807
+    province_id: 48
+    name: Phanom phrai
+  - id: 4808
+    province_id: 48
+    name: IPho chai
+  - id: 4809
+    province_id: 48
+    name: Phon sai
+  - id: 4810
+    province_id: 48
+    name: Phon thong
+  - id: 4811
+    province_id: 48
+    name: Moeiwadi
+  - id: 4812
+    province_id: 48
+    name: Muangsuang
+  - id: 4813
+    province_id: 48
+    name: Srisomdet
+  - id: 4814
+    province_id: 48
+    name: Sela phum
+  - id: 4815
+    province_id: 48
+    name: Suwannaphum
+  - id: 4816
+    province_id: 48
+    name: Nong phok
+  - id: 4817
+    province_id: 48
+    name: At samat
+  - id: 4818
+    province_id: 48
+    name: Chiang khwan
+  - id: 4819
+    province_id: 48
+    name: Nong hi
+  - id: 4820
+    province_id: 48
+    name: Thung kao luang
+  - id: 4901
+    province_id: 49
+    name: Muang ranong
+  - id: 4902
+    province_id: 49
+    name: Kra buri
+  - id: 4903
+    province_id: 49
+    name: Kapoe
+  - id: 4904
+    province_id: 49
+    name: La-un
+  - id: 4905
+    province_id: 49
+    name: Sook samran
+  - id: 5001
+    province_id: 50
+    name: Muang rayong
+  - id: 5002
+    province_id: 50
+    name: Klaeng
+  - id: 5003
+    province_id: 50
+    name: Ban khai
+  - id: 5004
+    province_id: 50
+    name: Ban chang
+  - id: 5005
+    province_id: 50
+    name: Pluak daeng
+  - id: 5006
+    province_id: 50
+    name: Wang chan
+  - id: 5007
+    province_id: 50
+    name: khao chamao
+  - id: 5008
+    province_id: 50
+    name: Nikhom phathana
+  - id: 5101
+    province_id: 51
+    name: Muang rachaburi
+  - id: 5102
+    province_id: 51
+    name: Chom bung
+  - id: 5103
+    province_id: 51
+    name: Damnoen saduak
+  - id: 5104
+    province_id: 51
+    name: Bang phae
+  - id: 5105
+    province_id: 51
+    name: Bang phong
+  - id: 5106
+    province_id: 51
+    name: Pak tho
+  - id: 5107
+    province_id: 51
+    name: Photharam
+  - id: 5108
+    province_id: 51
+    name: Wat phleng
+  - id: 5109
+    province_id: 51
+    name: Suan phung
+  - id: 5110
+    province_id: 51
+    name: Bang kha
+  - id: 5201
+    province_id: 52
+    name: Muang lopburi
+  - id: 5202
+    province_id: 52
+    name: Khok charoen
+  - id: 5203
+    province_id: 52
+    name: Khok samrong
+  - id: 5204
+    province_id: 52
+    name: Chai badan
+  - id: 5205
+    province_id: 52
+    name: Tha wong
+  - id: 5206
+    province_id: 52
+    name: Tha luang
+  - id: 5207
+    province_id: 52
+    name: Ban mi
+  - id: 5208
+    province_id: 52
+    name: Phatthana nikhom
+  - id: 5209
+    province_id: 52
+    name: ''
+  - id: 5210
+    province_id: 52
+    name: ''
+  - id: 5211
+    province_id: 52
+    name: Nong muang kai
+  - id: 5301
+    province_id: 53
+    name: Muang loei
+  - id: 5302
+    province_id: 53
+    name: Chiang khan
+  - id: 5303
+    province_id: 53
+    name: Dan sai
+  - id: 5304
+    province_id: 53
+    name: Tha li
+  - id: 5305
+    province_id: 53
+    name: Na duang
+  - id: 5306
+    province_id: 53
+    name: Na haeo
+  - id: 5307
+    province_id: 53
+    name: Pak chom
+  - id: 5308
+    province_id: 53
+    name: ''
+  - id: 5309
+    province_id: 53
+    name: Phu kadung
+  - id: 5310
+    province_id: 53
+    name: Phu rua
+  - id: 5311
+    province_id: 53
+    name: Phu luang
+  - id: 5312
+    province_id: 53
+    name: Wang saphung
+  - id: 5313
+    province_id: 53
+    name: Erawan
+  - id: 5314
+    province_id: 53
+    name: Nong hin
+  - id: 5401
+    province_id: 54
+    name: Muang lampang
+  - id: 5402
+    province_id: 54
+    name: Ko kha
+  - id: 5403
+    province_id: 54
+    name: Nhao
+  - id: 5404
+    province_id: 54
+    name: Chae hom
+  - id: 5405
+    province_id: 54
+    name: Thoen
+  - id: 5406
+    province_id: 54
+    name: Mea tha
+  - id: 5407
+    province_id: 54
+    name: Mea phrik
+  - id: 5408
+    province_id: 54
+    name: Muang pan
+  - id: 5409
+    province_id: 54
+    name: Mea mo
+  - id: 5410
+    province_id: 54
+    name: Wang nua
+  - id: 5411
+    province_id: 54
+    name: Sop prap
+  - id: 5412
+    province_id: 54
+    name: Some ngam
+  - id: 5413
+    province_id: 54
+    name: ''
+  - id: 5501
+    province_id: 55
+    name: Muang lamphun
+  - id: 5502
+    province_id: 55
+    name: Thung hua chang
+  - id: 5503
+    province_id: 55
+    name: Ban hong
+  - id: 5504
+    province_id: 55
+    name: Pa sang
+  - id: 5505
+    province_id: 55
+    name: Mea ta
+  - id: 5506
+    province_id: 55
+    name: Li
+  - id: 5507
+    province_id: 55
+    name: Ban thi
+  - id: 5508
+    province_id: 55
+    name: ''
+  - id: 5601
+    province_id: 56
+    name: Muang srisaket
+  - id: 5602
+    province_id: 56
+    name: Kantharalak
+  - id: 5603
+    province_id: 56
+    name: Kanthararom
+  - id: 5604
+    province_id: 56
+    name: Khokhon
+  - id: 5605
+    province_id: 56
+    name: Khun han
+  - id: 5606
+    province_id: 56
+    name: Nam kliang
+  - id: 5607
+    province_id: 56
+    name: Non khan
+  - id: 5608
+    province_id: 56
+    name: Bang bun
+  - id: 5609
+    province_id: 56
+    name: Benjalak
+  - id: 5610
+    province_id: 56
+    name: Prang ku
+  - id: 5611
+    province_id: 56
+    name: Phayu
+  - id: 5612
+    province_id: 56
+    name: Phai bung
+  - id: 5613
+    province_id: 56
+    name: Pho si suwan
+  - id: 5614
+    province_id: 56
+    name: Phu sing
+  - id: 5615
+    province_id: 56
+    name: Muang chan
+  - id: 5616
+    province_id: 56
+    name: Yang chumnoi
+  - id: 5617
+    province_id: 56
+    name: Rasi sala
+  - id: 5618
+    province_id: 56
+    name: Wang hin
+  - id: 5619
+    province_id: 56
+    name: Sirattana
+  - id: 5620
+    province_id: 56
+    name: Huai thap than
+  - id: 5621
+    province_id: 56
+    name: Uthum phon phisai
+  - id: 5622
+    province_id: 56
+    name: Silalat
+  - id: 5701
+    province_id: 57
+    name: Muang sakonnakhon
+  - id: 5702
+    province_id: 57
+    name: Kot bak
+  - id: 5703
+    province_id: 57
+    name: Kusuman
+  - id: 5704
+    province_id: 57
+    name: Kham ta kla
+  - id: 5705
+    province_id: 57
+    name: Charoen silp
+  - id: 5706
+    province_id: 57
+    name: Tao ngoi
+  - id: 5707
+    province_id: 57
+    name: Nikhomnamun
+  - id: 5708
+    province_id: 57
+    name: Ban muang
+  - id: 5709
+    province_id: 57
+    name: Phanna nikhom
+  - id: 5710
+    province_id: 57
+    name: Phang khon
+  - id: 5711
+    province_id: 57
+    name: Wanon niwat
+  - id: 5712
+    province_id: 57
+    name: Warit chaphum
+  - id: 5713
+    province_id: 57
+    name: Khok si suphan
+  - id: 5714
+    province_id: 57
+    name: Sawang daen din
+  - id: 5715
+    province_id: 57
+    name: Song dao
+  - id: 5716
+    province_id: 57
+    name: ''
+  - id: 5717
+    province_id: 57
+    name: Phu phan
+  - id: 5718
+    province_id: 57
+    name: Phon na kaeo
+  - id: 5801
+    province_id: 58
+    name: Muang songkhla
+  - id: 5802
+    province_id: 58
+    name: Kasae sin
+  - id: 5803
+    province_id: 58
+    name: Khuan niang
+  - id: 5804
+    province_id: 58
+    name: Chana
+  - id: 5805
+    province_id: 58
+    name: The pha
+  - id: 5806
+    province_id: 58
+    name: Na thawi
+  - id: 5807
+    province_id: 58
+    name: Na mom
+  - id: 5808
+    province_id: 58
+    name: Bang khum
+  - id: 5809
+    province_id: 58
+    name: Ranot
+  - id: 5810
+    province_id: 58
+    name: Rattaphom
+  - id: 5811
+    province_id: 58
+    name: Sathing phra
+  - id: 5812
+    province_id: 58
+    name: Sadao
+  - id: 5813
+    province_id: 58
+    name: Saba yoi
+  - id: 5814
+    province_id: 58
+    name: Singha nakhon
+  - id: 5815
+    province_id: 58
+    name: Hat yai
+  - id: 5816
+    province_id: 58
+    name: ''
+  - id: 5901
+    province_id: 59
+    name: Muang satun
+  - id: 5902
+    province_id: 59
+    name: Khuan ka long
+  - id: 5903
+    province_id: 59
+    name: Khuan don
+  - id: 5904
+    province_id: 59
+    name: Tha phae
+  - id: 5905
+    province_id: 59
+    name: Thung wa
+  - id: 5906
+    province_id: 59
+    name: Langu
+  - id: 5907
+    province_id: 59
+    name: Manang
+  - id: 6001
+    province_id: 60
+    name: Muang samutprakan
+  - id: 6002
+    province_id: 60
+    name: Bang bo
+  - id: 6003
+    province_id: 60
+    name: Bang phle
+  - id: 6004
+    province_id: 60
+    name: Phra pradaeng
+  - id: 6005
+    province_id: 60
+    name: Phra samutjede
+  - id: 6006
+    province_id: 60
+    name: Bang sao thong
+  - id: 6101
+    province_id: 61
+    name: Muang samut songkhram
+  - id: 6102
+    province_id: 61
+    name: ''
+  - id: 6103
+    province_id: 61
+    name: ''
+  - id: 6201
+    province_id: 62
+    name: Muang samut sakhon
+  - id: 6202
+    province_id: 62
+    name: Kratumban
+  - id: 6203
+    province_id: 62
+    name: Ban phaeo
+  - id: 6301
+    province_id: 63
+    name: Muang sra kaeo
+  - id: 6302
+    province_id: 63
+    name: ''
+  - id: 6303
+    province_id: 63
+    name: Khlong hat
+  - id: 6304
+    province_id: 63
+    name: Ta phraya
+  - id: 6305
+    province_id: 63
+    name: Wang namyen
+  - id: 6306
+    province_id: 63
+    name: Wattana nakhon
+  - id: 6307
+    province_id: 63
+    name: Aranyaprathat
+  - id: 6308
+    province_id: 63
+    name: Khok sung
+  - id: 6309
+    province_id: 63
+    name: Wang somboon
+  - id: 6401
+    province_id: 64
+    name: Muang saraburi
+  - id: 6402
+    province_id: 64
+    name: Kaeng khoy
+  - id: 6403
+    province_id: 64
+    name: Don phut
+  - id: 6404
+    province_id: 64
+    name: Ban mo
+  - id: 6405
+    province_id: 64
+    name: Phra phutthabat
+  - id: 6406
+    province_id: 64
+    name: Muak lek
+  - id: 6407
+    province_id: 64
+    name: Wihan daeng
+  - id: 6408
+    province_id: 64
+    name: ''
+  - id: 6409
+    province_id: 64
+    name: Nong khae
+  - id: 6410
+    province_id: 64
+    name: Nong saeng
+  - id: 6411
+    province_id: 64
+    name: Nong don
+  - id: 6412
+    province_id: 64
+    name: Wang muang
+  - id: 6413
+    province_id: 64
+    name: Chalermprakiat
+  - id: 6501
+    province_id: 65
+    name: Muang singburi
+  - id: 6502
+    province_id: 65
+    name: Khai bang rachan
+  - id: 6503
+    province_id: 65
+    name: Tha chang
+  - id: 6504
+    province_id: 65
+    name: Bangrachan
+  - id: 6505
+    province_id: 65
+    name: Phrom buri
+  - id: 6506
+    province_id: 65
+    name: In buri
+  - id: 6601
+    province_id: 66
+    name: Muang sukhothai
+  - id: 6602
+    province_id: 66
+    name: Kong kralilat
+  - id: 6603
+    province_id: 66
+    name: Khiri mat
+  - id: 6604
+    province_id: 66
+    name: Thung saliam
+  - id: 6605
+    province_id: 66
+    name: Ban dan lan hoi
+  - id: 6606
+    province_id: 66
+    name: Si nakhon
+  - id: 6607
+    province_id: 66
+    name: Satchanalai
+  - id: 6608
+    province_id: 66
+    name: Si samrong
+  - id: 6609
+    province_id: 66
+    name: Sawan khalok
+  - id: 6701
+    province_id: 67
+    name: Muang suphanburi
+  - id: 6702
+    province_id: 67
+    name: Don chedi
+  - id: 6703
+    province_id: 67
+    name: Dan chang
+  - id: 6704
+    province_id: 67
+    name: Doembang nangbuat
+  - id: 6705
+    province_id: 67
+    name: Bang plama
+  - id: 6706
+    province_id: 67
+    name: Si prachan
+  - id: 6707
+    province_id: 67
+    name: Song phi nong
+  - id: 6708
+    province_id: 67
+    name: Sam chuk
+  - id: 6709
+    province_id: 67
+    name: U thong
+  - id: 6710
+    province_id: 67
+    name: Nong yasai
+  - id: 6801
+    province_id: 68
+    name: Muang surat thani
+  - id: 6802
+    province_id: 68
+    name: Kanchanadit
+  - id: 6803
+    province_id: 68
+    name: ko phangan
+  - id: 6804
+    province_id: 68
+    name: Ko samut
+  - id: 6805
+    province_id: 68
+    name: Khiri ratthanikhem
+  - id: 6806
+    province_id: 68
+    name: Khian sa
+  - id: 6807
+    province_id: 68
+    name: Chat buri
+  - id: 6808
+    province_id: 68
+    name: Chai ya
+  - id: 6809
+    province_id: 68
+    name: Don sak
+  - id: 6810
+    province_id: 68
+    name: Tha chang
+  - id: 6811
+    province_id: 68
+    name: Tha chana
+  - id: 6812
+    province_id: 68
+    name: Ban ta khun
+  - id: 6813
+    province_id: 68
+    name: Ban na doem
+  - id: 6814
+    province_id: 68
+    name: Ban na san
+  - id: 6815
+    province_id: 68
+    name: Phanom
+  - id: 6816
+    province_id: 68
+    name: Phrasaeng
+  - id: 6817
+    province_id: 68
+    name: Phunphin
+  - id: 6818
+    province_id: 68
+    name: ''
+  - id: 6819
+    province_id: 68
+    name: Weang sa
+  - id: 6901
+    province_id: 69
+    name: Muang surin
+  - id: 6902
+    province_id: 69
+    name: Kap choeng
+  - id: 6903
+    province_id: 69
+    name: Chom phra
+  - id: 6904
+    province_id: 69
+    name: Chumphon buri
+  - id: 6905
+    province_id: 69
+    name: Tha tum
+  - id: 6906
+    province_id: 69
+    name: ''
+  - id: 6907
+    province_id: 69
+    name: Pra sat
+  - id: 6908
+    province_id: 69
+    name: Rattana buri
+  - id: 6909
+    province_id: 69
+    name: Lam duon
+  - id: 6910
+    province_id: 69
+    name: Sikhoraphum
+  - id: 6911
+    province_id: 69
+    name: sanom
+  - id: 6912
+    province_id: 69
+    name: Sang kha
+  - id: 6913
+    province_id: 69
+    name: Samrong thap
+  - id: 6914
+    province_id: 69
+    name: Sri narong
+  - id: 6915
+    province_id: 69
+    name: Phanom dong rak
+  - id: 6916
+    province_id: 69
+    name: ''
+  - id: 6917
+    province_id: 69
+    name: Nhon narai
+  - id: 7001
+    province_id: 70
+    name: Muang nongkhai
+  - id: 7004
+    province_id: 70
+    name: Tha bo
+  - id: 7009
+    province_id: 70
+    name: Phon phisai
+  - id: 7010
+    province_id: 70
+    name: Si chiang mai
+  - id: 7012
+    province_id: 70
+    name: Sang kom
+  - id: 7013
+    province_id: 70
+    name: ''
+  - id: 7015
+    province_id: 70
+    name: Ratana wapi
+  - id: 7016
+    province_id: 70
+    name: ''
+  - id: 7017
+    province_id: 70
+    name: Pho tak
+  - id: 7101
+    province_id: 71
+    name: Muang nongbualamphu
+  - id: 7102
+    province_id: 71
+    name: Na klang
+  - id: 7103
+    province_id: 71
+    name: Non sang
+  - id: 7104
+    province_id: 71
+    name: Si bun ruang
+  - id: 7105
+    province_id: 71
+    name: Suwannakhuha
+  - id: 7106
+    province_id: 71
+    name: Na wang
+  - id: 7201
+    province_id: 72
+    name: Muang angthong
+  - id: 7202
+    province_id: 72
+    name: Chai yo
+  - id: 7203
+    province_id: 72
+    name: Pamok
+  - id: 7204
+    province_id: 72
+    name: Po thong
+  - id: 7205
+    province_id: 72
+    name: Wiset chai chan
+  - id: 7206
+    province_id: 72
+    name: Sam ko
+  - id: 7207
+    province_id: 72
+    name: Sawaengha
+  - id: 7301
+    province_id: 73
+    name: Muang amnatcharoen
+  - id: 7302
+    province_id: 73
+    name: Chanu man
+  - id: 7303
+    province_id: 73
+    name: Pathum rachawongsa
+  - id: 7304
+    province_id: 73
+    name: Phana
+  - id: 7305
+    province_id: 73
+    name: Senangkhanikhom
+  - id: 7306
+    province_id: 73
+    name: Hua taphan
+  - id: 7307
+    province_id: 73
+    name: Lu amnat
+  - id: 7401
+    province_id: 74
+    name: Muang udonthani
+  - id: 7402
+    province_id: 74
+    name: Ku kaeo
+  - id: 7403
+    province_id: 74
+    name: kut chap
+  - id: 7404
+    province_id: 74
+    name: Kumphawapi
+  - id: 7405
+    province_id: 74
+    name: Chai wan
+  - id: 7406
+    province_id: 74
+    name: Thung fon
+  - id: 7407
+    province_id: 74
+    name: Na yung
+  - id: 7408
+    province_id: 74
+    name: Nam som
+  - id: 7409
+    province_id: 74
+    name: Non sa-at
+  - id: 7410
+    province_id: 74
+    name: Bang dung
+  - id: 7411
+    province_id: 74
+    name: Ban phu
+  - id: 7412
+    province_id: 74
+    name: Pibunrak
+  - id: 7413
+    province_id: 74
+    name: Phen
+  - id: 7414
+    province_id: 74
+    name: Wang sam mo
+  - id: 7415
+    province_id: 74
+    name: Si that
+  - id: 7416
+    province_id: 74
+    name: Sang khom
+  - id: 7417
+    province_id: 74
+    name: Nong wua so
+  - id: 7418
+    province_id: 74
+    name: Nong han
+  - id: 7419
+    province_id: 74
+    name: Nong saeng
+  - id: 7420
+    province_id: 74
+    name: ''
+  - id: 7501
+    province_id: 75
+    name: Muang uttaradit
+  - id: 7502
+    province_id: 75
+    name: Tron
+  - id: 7503
+    province_id: 75
+    name: Thong saen khan
+  - id: 7504
+    province_id: 75
+    name: Tha pla
+  - id: 7505
+    province_id: 75
+    name: Nam pat
+  - id: 7506
+    province_id: 75
+    name: Ban khok
+  - id: 7507
+    province_id: 75
+    name: Phichai
+  - id: 7508
+    province_id: 75
+    name: Fak tha
+  - id: 7509
+    province_id: 75
+    name: laplae
+  - id: 7601
+    province_id: 76
+    name: Muang uthaithani
+  - id: 7602
+    province_id: 76
+    name: Thap than
+  - id: 7603
+    province_id: 76
+    name: Ban rai
+  - id: 7604
+    province_id: 76
+    name: Lan sak
+  - id: 7605
+    province_id: 76
+    name: Sawang arom
+  - id: 7606
+    province_id: 76
+    name: Nong khayang
+  - id: 7607
+    province_id: 76
+    name: Nong chang
+  - id: 7608
+    province_id: 76
+    name: Huai khot
+  - id: 7701
+    province_id: 77
+    name: Muang uboratchathani
+  - id: 7702
+    province_id: 77
+    name: Kut khao pun
+  - id: 7703
+    province_id: 77
+    name: Khemarat
+  - id: 7704
+    province_id: 77
+    name: Khuang nai
+  - id: 7705
+    province_id: 77
+    name: Khong chiam
+  - id: 7706
+    province_id: 77
+    name: Deti udom
+  - id: 7707
+    province_id: 77
+    name: Trakan phut phon
+  - id: 7708
+    province_id: 77
+    name: Tan sum
+  - id: 7709
+    province_id: 77
+    name: Thung si udom
+  - id: 7710
+    province_id: 77
+    name: No chaluai
+  - id: 7711
+    province_id: 77
+    name: Nam yun
+  - id: 7712
+    province_id: 77
+    name: Bun tharik
+  - id: 7713
+    province_id: 77
+    name: Phibun mangsahan
+  - id: 7714
+    province_id: 77
+    name: Pho sai
+  - id: 7715
+    province_id: 77
+    name: muang samsip
+  - id: 7716
+    province_id: 77
+    name: ''
+  - id: 7717
+    province_id: 77
+    name: Warin shamrap
+  - id: 7718
+    province_id: 77
+    name: Si muang mai
+  - id: 7719
+    province_id: 77
+    name: sam rong
+  - id: 7720
+    province_id: 77
+    name: Sirinthon
+  - id: 7721
+    province_id: 77
+    name: ''
+  - id: 7722
+    province_id: 77
+    name: Natan
+  - id: 7723
+    province_id: 77
+    name: Swang weerawong
+  - id: 7724
+    province_id: 77
+    name: ''
+  - id: 7725
+    province_id: 77
+    name: Don mot daeng

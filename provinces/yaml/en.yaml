@@ -1,0 +1,157 @@
+---
+en:
+  provinces:
+  - id: 1
+    name: Krabi
+  - id: 2
+    name: Bangkok
+  - id: 3
+    name: Kanchanaburi
+  - id: 4
+    name: Kalasin
+  - id: 5
+    name: Kamphaeng phet
+  - id: 6
+    name: Khon kean
+  - id: 7
+    name: Chanthaburi
+  - id: 8
+    name: Chachoengsao
+  - id: 9
+    name: Chon buri
+  - id: 10
+    name: Chai nat
+  - id: 11
+    name: Chai yaphum
+  - id: 12
+    name: Chum phon
+  - id: 13
+    name: Chiang rai
+  - id: 14
+    name: Chiang mai
+  - id: 15
+    name: Trang
+  - id: 16
+    name: Trat
+  - id: 17
+    name: Tak
+  - id: 18
+    name: Nakhon nayok
+  - id: 19
+    name: Nakhon pathom
+  - id: 20
+    name: Nakhon phanom
+  - id: 21
+    name: Nakhon ratchasima
+  - id: 22
+    name: Nakhon si thammarat
+  - id: 23
+    name: Nakhon sawan
+  - id: 24
+    name: Nonthaburi
+  - id: 25
+    name: Narathiwat
+  - id: 26
+    name: Nan
+  - index: 27
+    name: Bueng Kan
+  - id: 28
+    name: Buri ram
+  - id: 29
+    name: Pathum thani
+  - id: 30
+    name: Prachuap khiri khan
+  - id: 31
+    name: Prachinburi
+  - id: 32
+    name: Pattani
+  - id: 33
+    name: Ayutthaya
+  - id: 34
+    name: Phayao
+  - id: 35
+    name: Phangnga
+  - id: 36
+    name: Phatthalung
+  - id: 37
+    name: phichit
+  - id: 38
+    name: Phitsanulok
+  - id: 39
+    name: Phetchaburi
+  - id: 40
+    name: Phetchabun
+  - id: 41
+    name: Phrae
+  - id: 42
+    name: Phuket
+  - id: 43
+    name: Mahasarakham
+  - id: 44
+    name: Mukdahan
+  - id: 45
+    name: Mae hong son
+  - id: 46
+    name: Yasothon
+  - id: 47
+    name: Yala
+  - id: 48
+    name: Roi et
+  - id: 49
+    name: Ranong
+  - id: 50
+    name: Rayong
+  - id: 51
+    name: Rachaburi
+  - id: 52
+    name: Lopburi
+  - id: 53
+    name: Loei
+  - id: 54
+    name: Lampang
+  - id: 55
+    name: Lamphun
+  - id: 56
+    name: Srisaket
+  - id: 57
+    name: Sakonnakhon
+  - id: 58
+    name: Songkhla
+  - id: 59
+    name: Satun
+  - id: 60
+    name: Samutprakan
+  - id: 61
+    name: Samut songkhram
+  - id: 62
+    name: Samut sakhon
+  - id: 63
+    name: Sra kaeo
+  - id: 64
+    name: Saraburi
+  - id: 65
+    name: Singburi
+  - id: 66
+    name: Sukhothai
+  - id: 67
+    name: Suphanburi
+  - id: 68
+    name: Surat thani
+  - id: 69
+    name: Surin
+  - id: 70
+    name: Nongkhai
+  - id: 71
+    name: Nongbualamphu
+  - id: 72
+    name: Angthong
+  - id: 73
+    name: Amnatcharoen
+  - id: 74
+    name: Udonthani
+  - id: 75
+    name: Uttaradit
+  - id: 76
+    name: Uthaithani
+  - id: 77
+    name: Uboratchathani
