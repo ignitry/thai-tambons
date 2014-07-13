@@ -36,7 +36,7 @@ en:
     name: Chomthong
   - id: 204
     province_id: 2
-    name: Jatujak
+    name: Chatuchak
   - id: 205
     province_id: 2
     name: Dusit
@@ -297,10 +297,10 @@ en:
     name: Lan krabu
   - id: 510
     province_id: 5
-    name: ''
+    name: Bueng Samakki
   - id: 511
     province_id: 5
-    name: ''
+    name: Kosampee Nakhon
   - id: 601
     province_id: 6
     name: Muang khonkean
@@ -405,7 +405,7 @@ en:
     name: Laem sing
   - id: 710
     province_id: 7
-    name: ''
+    name: Kao Kichagood
   - id: 801
     province_id: 8
     name: Muang Chachoengsao
@@ -438,7 +438,7 @@ en:
     name: Tha takep
   - id: 811
     province_id: 8
-    name: ''
+    name: Klongkluen
   - id: 901
     province_id: 9
     name: Muang chon buri
@@ -1047,7 +1047,7 @@ en:
     name: Nong bua
   - id: 2314
     province_id: 23
-    name: ''
+    name: Mae Pein
   - id: 2315
     province_id: 23
     name: Chum ta bong
@@ -1107,7 +1107,7 @@ en:
     name: Sungai padi
   - id: 2513
     province_id: 25
-    name: ''
+    name: Choairong
   - id: 2601
     province_id: 26
     name: Muang nan
@@ -1479,7 +1479,7 @@ en:
     name: Bang kaeo
   - id: 3611
     province_id: 36
-    name: ''
+    name: Srinakarin
   - id: 3701
     province_id: 37
     name: Muang phichit
@@ -1497,7 +1497,7 @@ en:
     name: Pho thale
   - id: 3706
     province_id: 37
-    name: ''
+    name: Pho Phatubchang
   - id: 3707
     province_id: 37
     name: Sam ngam
@@ -1515,7 +1515,7 @@ en:
     name: Dong charoen
   - id: 3712
     province_id: 37
-    name: ''
+    name: Wachirabarami
   - id: 3801
     province_id: 38
     name: Muang phitsanulok
@@ -1749,7 +1749,7 @@ en:
     name: Kabang
   - id: 4703
     province_id: 47
-    name: ''
+    name: Krongpinang
   - id: 4704
     province_id: 47
     name: Than to
@@ -1920,13 +1920,13 @@ en:
     name: Phatthana nikhom
   - id: 5209
     province_id: 52
-    name: ''
+    name: Lam Sonthi 
   - id: 5210
     province_id: 52
-    name: ''
+    name: Sa Bot
   - id: 5211
     province_id: 52
-    name: Nong muang kai
+    name: Nong muang
   - id: 5301
     province_id: 53
     name: Muang loei
@@ -1950,7 +1950,7 @@ en:
     name: Pak chom
   - id: 5308
     province_id: 53
-    name: ''
+    name: Pha Khao
   - id: 5309
     province_id: 53
     name: Phu kadung
@@ -2007,7 +2007,7 @@ en:
     name: Some ngam
   - id: 5413
     province_id: 54
-    name: ''
+    name: Hang Chat
   - id: 5501
     province_id: 55
     name: Muang lamphun
@@ -2031,7 +2031,7 @@ en:
     name: Ban thi
   - id: 5508
     province_id: 55
-    name: ''
+    name: Wiang nong long
   - id: 5601
     province_id: 56
     name: Muang srisaket
@@ -2145,7 +2145,7 @@ en:
     name: Song dao
   - id: 5716
     province_id: 57
-    name: ''
+    name: Akat amnuai
   - id: 5717
     province_id: 57
     name: Phu phan
@@ -2199,7 +2199,7 @@ en:
     name: Hat yai
   - id: 5816
     province_id: 58
-    name: ''
+    name: Khlong hoi khong
   - id: 5901
     province_id: 59
     name: Muang satun
@@ -2244,10 +2244,10 @@ en:
     name: Muang samut songkhram
   - id: 6102
     province_id: 61
-    name: ''
+    name: Bang khonthi
   - id: 6103
     province_id: 61
-    name: ''
+    name: Amphawa
   - id: 6201
     province_id: 62
     name: Muang samut sakhon
@@ -2262,7 +2262,7 @@ en:
     name: Muang sra kaeo
   - id: 6302
     province_id: 63
-    name: ''
+    name: Khao chakan
   - id: 6303
     province_id: 63
     name: Khlong hat
@@ -2307,7 +2307,7 @@ en:
     name: Wihan daeng
   - id: 6408
     province_id: 64
-    name: ''
+    name: Sao hai
   - id: 6409
     province_id: 64
     name: Nong khae
@@ -2451,7 +2451,7 @@ en:
     name: Phunphin
   - id: 6818
     province_id: 68
-    name: ''
+    name: Vibhavadi
   - id: 6819
     province_id: 68
     name: Weang sa
@@ -2472,7 +2472,7 @@ en:
     name: Tha tum
   - id: 6906
     province_id: 69
-    name: ''
+    name: Buachet
   - id: 6907
     province_id: 69
     name: Pra sat
@@ -2502,7 +2502,7 @@ en:
     name: Phanom dong rak
   - id: 6916
     province_id: 69
-    name: ''
+    name: Khwao sinarin
   - id: 6917
     province_id: 69
     name: Nhon narai
@@ -2523,13 +2523,13 @@ en:
     name: Sang kom
   - id: 7013
     province_id: 70
-    name: ''
+    name: Sakhrai
   - id: 7015
     province_id: 70
     name: Ratana wapi
   - id: 7016
     province_id: 70
-    name: ''
+    name: Fao rai
   - id: 7017
     province_id: 70
     name: Pho tak
@@ -2652,7 +2652,7 @@ en:
     name: Nong saeng
   - id: 7420
     province_id: 74
-    name: ''
+    name: Prachaksinlapakhom
   - id: 7501
     province_id: 75
     name: Muang uttaradit
@@ -2751,7 +2751,7 @@ en:
     name: muang samsip
   - id: 7716
     province_id: 77
-    name: ''
+    name: Lao suea kok
   - id: 7717
     province_id: 77
     name: Warin shamrap
@@ -2766,7 +2766,7 @@ en:
     name: Sirinthon
   - id: 7721
     province_id: 77
-    name: ''
+    name: Na yia
   - id: 7722
     province_id: 77
     name: Natan
@@ -2775,7 +2775,7 @@ en:
     name: Swang weerawong
   - id: 7724
     province_id: 77
-    name: ''
+    name: Nam khun
   - id: 7725
     province_id: 77
     name: Don mot daeng
