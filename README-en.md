@@ -1,7 +1,7 @@
 Data of provinces and cities in Thailand
 ================================
 
-Contain name and relations of 77 provinces and 926 cities.
+Contain name and relations of 77 changwats, 926 amphoes and 7379 tambons.
 
 Data types
 --------------
@@ -10,7 +10,7 @@ Data types
 
 Last update
 ------------
-10 July 2014
+21 April 2015
 
 
 License and agreements
