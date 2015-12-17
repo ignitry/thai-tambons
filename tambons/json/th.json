@@ -7811,7 +7811,7 @@
       },
       {
         "pid": "200409",
-        "name": "เขตการปกคองพิเศษพัทยา",
+        "name": "เขตการปกครองพิเศษพัทยา",
         "latitude": 12.91,
         "longitide": 100.884,
         "amphoe_pid": "2004",
@@ -32803,7 +32803,7 @@
       },
       {
         "pid": "490501",
-        "name": "บ้านช่ง",
+        "name": "บ้านซ่ง",
         "latitude": 16.569,
         "longitide": 104.451,
         "amphoe_pid": "4905",
@@ -34963,9 +34963,33 @@
       },
       {
         "pid": "520101",
-        "name": "คือหัวเ*",
+        "name": "หัวเวียง",
         "latitude": 18.29,
         "longitide": 99.492,
+        "amphoe_pid": "5201",
+        "changwat_pid": "52"
+      },
+      {
+        "pid": "520102",
+        "name": "เวียงเหนือ",
+        "latitude": 18.2988493,
+        "longitide": 99.4922826,
+        "amphoe_pid": "5201",
+        "changwat_pid": "52"
+      },
+      {
+        "pid": "520103",
+        "name": "สวนดอก",
+        "latitude": 18.2871564,
+        "longitide": 99.4912772,
+        "amphoe_pid": "5201",
+        "changwat_pid": "52"
+      },
+      {
+        "pid": "520104",
+        "name": "สบตุ๋ย",
+        "latitude": 18.287143,
+        "longitide": 99.4604608,
         "amphoe_pid": "5201",
         "changwat_pid": "52"
       },

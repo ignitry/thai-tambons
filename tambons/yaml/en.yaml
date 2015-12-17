@@ -98,283 +98,283 @@ en:
     amphoe_pid: '1002'
     changwat_pid: '10'
   - pid: '100206'
-    name: 
+    name: Thanon Nakhon Chai Si
     latitude: 13.789
     longitide: 100.522
     amphoe_pid: '1002'
     changwat_pid: '10'
   - pid: '100301'
-    name: 
+    name: Krathum Rai
     latitude: 13.823
     longitide: 100.897
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100302'
-    name: 
+    name: Nong Chok
     latitude: 13.869
     longitide: 100.885
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100303'
-    name: 
+    name: Khlong Sip
     latitude: 13.914
     longitide: 100.82
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100304'
-    name: 
+    name: Khlong Sip Song
     latitude: 13.914
     longitide: 100.88
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100305'
-    name: 
+    name: Khok Faet
     latitude: 13.84
     longitide: 100.836
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100306'
-    name: 
+    name: Khu Fang Nuea
     latitude: 13.872
     longitide: 100.81
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100307'
-    name: 
+    name: Lam Phakchi
     latitude: 13.797
     longitide: 100.844
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100308'
-    name: 
+    name: Lam Toi Ting
     latitude: 13.781
     longitide: 100.877
     amphoe_pid: '1003'
     changwat_pid: '10'
   - pid: '100401'
-    name: 
+    name: Mahapruttaram
     latitude: 13.734
     longitide: 100.52
     amphoe_pid: '1004'
     changwat_pid: '10'
   - pid: '100402'
-    name: 
+    name: Silom
     latitude: 13.73
     longitide: 100.525
     amphoe_pid: '1004'
     changwat_pid: '10'
   - pid: '100403'
-    name: 
+    name: Suriyawong
     latitude: 13.724
     longitide: 100.53
     amphoe_pid: '1004'
     changwat_pid: '10'
   - pid: '100404'
-    name: 
+    name: Bang Rak
     latitude: 13.727
     longitide: 100.527
     amphoe_pid: '1004'
     changwat_pid: '10'
   - pid: '100405'
-    name: 
+    name: Si Phraya
     latitude: 13.725
     longitide: 100.514
     amphoe_pid: '1004'
     changwat_pid: '10'
   - pid: '100502'
-    name: 
+    name: Anusawari
     latitude: 13.868
     longitide: 100.606
     amphoe_pid: '1005'
     changwat_pid: '10'
   - pid: '100508'
-    name: 
+    name: Tha Raeng
     latitude: 13.866
     longitide: 100.65
     amphoe_pid: '1005'
     changwat_pid: '10'
   - pid: '100601'
-    name: 
+    name: Khlong Chan
     latitude: 13.786
     longitide: 100.635
     amphoe_pid: '1006'
     changwat_pid: '10'
   - pid: '100608'
-    name: 
+    name: Hua Mak
     latitude: 13.756
     longitide: 100.66
     amphoe_pid: '1006'
     changwat_pid: '10'
   - pid: '100701'
-    name: 
+    name: Rong Mueang
     latitude: 13.744
     longitide: 100.52
     amphoe_pid: '1007'
     changwat_pid: '10'
   - pid: '100702'
-    name: 
+    name: Wang Mai
     latitude: 13.742
     longitide: 100.526
     amphoe_pid: '1007'
     changwat_pid: '10'
   - pid: '100703'
-    name: 
+    name: Pathum Wan
     latitude: 13.74
     longitide: 100.535
     amphoe_pid: '1007'
     changwat_pid: '10'
   - pid: '100704'
-    name: 
+    name: Lumphini
     latitude: 13.736
     longitide: 100.546
     amphoe_pid: '1007'
     changwat_pid: '10'
   - pid: '100801'
-    name: 
+    name: Pom Prap
     latitude: 13.743
     longitide: 100.514
     amphoe_pid: '1008'
     changwat_pid: '10'
   - pid: '100802'
-    name: 
+    name: Wat Debsirin
     latitude: 13.749
     longitide: 100.512
     amphoe_pid: '1008'
     changwat_pid: '10'
   - pid: '100803'
-    name: 
+    name: Khlong Mahanak
     latitude: 13.753
     longitide: 100.513
     amphoe_pid: '1008'
     changwat_pid: '10'
   - pid: '100804'
-    name: 
+    name: Ban Bat
     latitude: 13.752
     longitide: 100.507
     amphoe_pid: '1008'
     changwat_pid: '10'
   - pid: '100805'
-    name: 
+    name: Wat Somanas
     latitude: 13.759
     longitide: 100.511
     amphoe_pid: '1008'
     changwat_pid: '10'
   - pid: '100905'
-    name: 
+    name: Bang Chak
     latitude: 13.692
     longitide: 100.626
     amphoe_pid: '1009'
     changwat_pid: '10'
   - pid: '101001'
-    name: 
+    name: Min Buri
     latitude: 13.804
     longitide: 100.723
     amphoe_pid: '1010'
     changwat_pid: '10'
   - pid: '101002'
-    name: 
+    name: San Saab
     latitude: 13.812
     longitide: 100.774
     amphoe_pid: '1010'
     changwat_pid: '10'
   - pid: '101101'
-    name: 
+    name: Lat Krabang
     latitude: 13.723
     longitide: 100.771
     amphoe_pid: '1011'
     changwat_pid: '10'
   - pid: '101102'
-    name: 
+    name: Khlong Song Ton Nun
     latitude: 13.753
     longitide: 100.723
     amphoe_pid: '1011'
     changwat_pid: '10'
   - pid: '101103'
-    name: 
+    name: Khlong Sam Prawet
     latitude: 13.753
     longitide: 100.754
     amphoe_pid: '1011'
     changwat_pid: '10'
   - pid: '101104'
-    name: 
+    name: Lam Pla Thew
     latitude: 13.765
     longitide: 100.817
     amphoe_pid: '1011'
     changwat_pid: '10'
   - pid: '101105'
-    name: 
+    name: Thap Yao
     latitude: 13.728
     longitide: 100.815
     amphoe_pid: '1011'
     changwat_pid: '10'
   - pid: '101106'
-    name: 
+    name: Khun Thong
     latitude: 13.736
     longitide: 100.855
     amphoe_pid: '1011'
     changwat_pid: '10'
   - pid: '101203'
-    name: 
+    name: Chong Nonsi
     latitude: 13.682
     longitide: 100.533
     amphoe_pid: '1012'
     changwat_pid: '10'
   - pid: '101204'
-    name: 
+    name: Bang Phong Phang
     latitude: 13.697
     longitide: 100.544
     amphoe_pid: '1012'
     changwat_pid: '10'
   - pid: '101301'
-    name: 
+    name: Chakkrawat
     latitude: 13.741
     longitide: 100.504
     amphoe_pid: '1013'
     changwat_pid: '10'
   - pid: '101302'
-    name: 
+    name: Samphanthawong
     latitude: 13.739
     longitide: 100.511
     amphoe_pid: '1013'
     changwat_pid: '10'
   - pid: '101303'
-    name: 
+    name: Talat Noi
     latitude: 13.734
     longitide: 100.513
     amphoe_pid: '1013'
     changwat_pid: '10'
   - pid: '101401'
-    name: 
+    name: Samsen Nai
     latitude: 13.782
     longitide: 100.545
     amphoe_pid: '1014'
     changwat_pid: '10'
   - pid: '101501'
-    name: 
+    name: Wat Kanlaya
     latitude: 13.737
     longitide: 100.493
     amphoe_pid: '1015'
     changwat_pid: '10'
   - pid: '101502'
-    name: 
+    name: Hiran Ruchi
     latitude: 13.731
     longitide: 100.49
     amphoe_pid: '1015'
     changwat_pid: '10'
   - pid: '101503'
-    name: 
+    name: Bang Yi Ruea
     latitude: 13.72
     longitide: 100.482
     amphoe_pid: '1015'
     changwat_pid: '10'
   - pid: '101504'
-    name: 
+    name: Bukkhalo
     latitude: 13.707
     longitide: 100.486
     amphoe_pid: '1015'
     changwat_pid: '10'
   - pid: '101505'
-    name: 
+    name: Talad Plu
     latitude: 13.715
     longitide: 100.473
     amphoe_pid: '1015'
@@ -392,235 +392,235 @@ en:
     amphoe_pid: '1015'
     changwat_pid: '10'
   - pid: '101601'
-    name: 
+    name: Wat Arun
     latitude: 13.743
     longitide: 100.486
     amphoe_pid: '1016'
     changwat_pid: '10'
   - pid: '101602'
-    name: 
+    name: Wat Tha Phra
     latitude: 13.733
     longitide: 100.475
     amphoe_pid: '1016'
     changwat_pid: '10'
   - pid: '101701'
-    name: 
+    name: Huai Khwang
     latitude: 13.769
     longitide: 100.577
     amphoe_pid: '1017'
     changwat_pid: '10'
   - pid: '101702'
-    name: 
+    name: Bang Kapi
     latitude: 13.752
     longitide: 100.586
     amphoe_pid: '1017'
     changwat_pid: '10'
   - pid: '101704'
-    name: 
+    name: Samsen Nok
     latitude: 13.796
     longitide: 100.579
     amphoe_pid: '1017'
     changwat_pid: '10'
   - pid: '101801'
-    name: 
+    name: Somdet Chaopraya
     latitude: 13.731
     longitide: 100.497
     amphoe_pid: '1018'
     changwat_pid: '10'
   - pid: '101802'
-    name: 
+    name: Khlong San
     latitude: 13.735
     longitide: 100.504
     amphoe_pid: '1018'
     changwat_pid: '10'
   - pid: '101803'
-    name: 
+    name: Bang Lamphu Lang
     latitude: 13.715
     longitide: 100.501
     amphoe_pid: '1018'
     changwat_pid: '10'
   - pid: '101804'
-    name: 
+    name: Khlong Ton Sai
     latitude: 13.725
     longitide: 100.508
     amphoe_pid: '1018'
     changwat_pid: '10'
   - pid: '101901'
-    name: 
+    name: Khlong Chak Phra
     latitude: 13.76
     longitide: 100.456
     amphoe_pid: '1019'
     changwat_pid: '10'
   - pid: '101902'
-    name: 
+    name: Taling Chan
     latitude: 13.789
     longitide: 100.459
     amphoe_pid: '1019'
     changwat_pid: '10'
   - pid: '101903'
-    name: 
+    name: Chimplee
     latitude: 13.786
     longitide: 100.432
     amphoe_pid: '1019'
     changwat_pid: '10'
   - pid: '101904'
-    name: 
+    name: Bang Phrom
     latitude: 13.752
     longitide: 100.442
     amphoe_pid: '1019'
     changwat_pid: '10'
   - pid: '101905'
-    name: 
+    name: Bang Ramat
     latitude: 13.767
     longitide: 100.431
     amphoe_pid: '1019'
     changwat_pid: '10'
   - pid: '101907'
-    name: 
+    name: Bang Chueak Nang
     latitude: 13.751
     longitide: 100.419
     amphoe_pid: '1019'
     changwat_pid: '10'
   - pid: '102004'
-    name: 
+    name: Siriraj
     latitude: 13.759
     longitide: 100.481
     amphoe_pid: '1020'
     changwat_pid: '10'
   - pid: '102005'
-    name: 
+    name: Ban Chang Lo
     latitude: 13.752
     longitide: 100.477
     amphoe_pid: '1020'
     changwat_pid: '10'
   - pid: '102006'
-    name: 
+    name: Bang Khun Non
     latitude: 13.774
     longitide: 100.466
     amphoe_pid: '1020'
     changwat_pid: '10'
   - pid: '102007'
-    name: 
+    name: Bang Khun Si
     latitude: 13.76
     longitide: 100.463
     amphoe_pid: '1020'
     changwat_pid: '10'
   - pid: '102009'
-    name: 
+    name: Arun Ammarin
     latitude: 13.772
     longitide: 100.477
     amphoe_pid: '1020'
     changwat_pid: '10'
   - pid: '102105'
-    name: 
+    name: Tha Kham
     latitude: 13.555
     longitide: 100.434
     amphoe_pid: '1021'
     changwat_pid: '10'
   - pid: '102107'
-    name: 
+    name: Samae Dam
     latitude: 13.605
     longitide: 100.395
     amphoe_pid: '1021'
     changwat_pid: '10'
   - pid: '102201'
-    name: 
+    name: Bang Wa
     latitude: 13.714
     longitide: 100.443
     amphoe_pid: '1022'
     changwat_pid: '10'
   - pid: '102202'
-    name: 
+    name: Bang Duan
     latitude: 13.723
     longitide: 100.437
     amphoe_pid: '1022'
     changwat_pid: '10'
   - pid: '102206'
-    name: 
+    name: Bang Chak
     latitude: 13.727
     longitide: 100.45
     amphoe_pid: '1022'
     changwat_pid: '10'
   - pid: '102207'
-    name: 
+    name: Bang Waek
     latitude: 13.736
     longitide: 100.445
     amphoe_pid: '1022'
     changwat_pid: '10'
   - pid: '102208'
-    name: 
+    name: Khlong Khwang
     latitude: 13.738
     longitide: 100.423
     amphoe_pid: '1022'
     changwat_pid: '10'
   - pid: '102209'
-    name: 
+    name: Pak Khlong Phasi Charoen
     latitude: 13.722
     longitide: 100.464
     amphoe_pid: '1022'
     changwat_pid: '10'
   - pid: '102210'
-    name: 
+    name: Khuha Sawan
     latitude: 13.727
     longitide: 100.457
     amphoe_pid: '1022'
     changwat_pid: '10'
   - pid: '102302'
-    name: 
+    name: Nong Khaem
     latitude: 13.68
     longitide: 100.358
     amphoe_pid: '1023'
     changwat_pid: '10'
   - pid: '102303'
-    name: 
+    name: Nong Khang Phlu
     latitude: 13.714
     longitide: 100.351
     amphoe_pid: '1023'
     changwat_pid: '10'
   - pid: '102401'
-    name: 
+    name: Rat Burana
     latitude: 13.67
     longitide: 100.51
     amphoe_pid: '1024'
     changwat_pid: '10'
   - pid: '102402'
-    name: 
+    name: Bang Pakok
     latitude: 13.675
     longitide: 100.491
     amphoe_pid: '1024'
     changwat_pid: '10'
   - pid: '102501'
-    name: 
+    name: Bang Phlat
     latitude: 13.791
     longitide: 100.487
     amphoe_pid: '1025'
     changwat_pid: '10'
   - pid: '102502'
-    name: 
+    name: Bang Ao
     latitude: 13.802
     longitide: 100.512
     amphoe_pid: '1025'
     changwat_pid: '10'
   - pid: '102503'
-    name: 
+    name: Bang Bamru
     latitude: 13.781
     longitide: 100.482
     amphoe_pid: '1025'
     changwat_pid: '10'
   - pid: '102504'
-    name: 
+    name: Bang Yikhan
     latitude: 13.774
     longitide: 100.492
     amphoe_pid: '1025'
     changwat_pid: '10'
   - pid: '102601'
-    name: 
+    name: Din Daeng
     latitude: 13.778
     longitide: 100.567
     amphoe_pid: '1026'
     changwat_pid: '10'
   - pid: '102701'
-    name: 
+    name: Khlong Kum
     latitude: 13.808
     longitide: 100.65
     amphoe_pid: '1027'
@@ -638,25 +638,25 @@ en:
     amphoe_pid: '1027'
     changwat_pid: '10'
   - pid: '102801'
-    name: 
+    name: Thung Wat Don
     latitude: 13.71
     longitide: 100.532
     amphoe_pid: '1028'
     changwat_pid: '10'
   - pid: '102802'
-    name: 
+    name: Yan Nawa
     latitude: 13.714
     longitide: 100.514
     amphoe_pid: '1028'
     changwat_pid: '10'
   - pid: '102803'
-    name: 
+    name: Thung Mahamek
     latitude: 13.718
     longitide: 100.541
     amphoe_pid: '1028'
     changwat_pid: '10'
   - pid: '102901'
-    name: 
+    name: Bang Sue
     latitude: 13.82
     longitide: 100.529
     amphoe_pid: '1029'
@@ -668,7 +668,7 @@ en:
     amphoe_pid: '1029'
     changwat_pid: '10'
   - pid: '103001'
-    name: 
+    name: Lat Yao
     latitude: 13.826
     longitide: 100.565
     amphoe_pid: '1030'
@@ -698,91 +698,91 @@ en:
     amphoe_pid: '1030'
     changwat_pid: '10'
   - pid: '103101'
-    name: 
+    name: Bang Kho Laem
     latitude: 13.696
     longitide: 100.494
     amphoe_pid: '1031'
     changwat_pid: '10'
   - pid: '103102'
-    name: 
+    name: Wat Phraya Krai
     latitude: 13.706
     longitide: 100.508
     amphoe_pid: '1031'
     changwat_pid: '10'
   - pid: '103103'
-    name: 
+    name: Bang Khlo
     latitude: 13.694
     longitide: 100.516
     amphoe_pid: '1031'
     changwat_pid: '10'
   - pid: '103201'
-    name: 
+    name: Prawet
     latitude: 13.719
     longitide: 100.664
     amphoe_pid: '1032'
     changwat_pid: '10'
   - pid: '103202'
-    name: 
+    name: Nong Bon
     latitude: 13.687
     longitide: 100.656
     amphoe_pid: '1032'
     changwat_pid: '10'
   - pid: '103203'
-    name: 
+    name: Dok Mai
     latitude: 13.68
     longitide: 100.689
     amphoe_pid: '1032'
     changwat_pid: '10'
   - pid: '103301'
-    name: 
+    name: Khlong Toei
     latitude: 13.71
     longitide: 100.57
     amphoe_pid: '1033'
     changwat_pid: '10'
   - pid: '103302'
-    name: 
+    name: Khlong Ton
     latitude: 13.723
     longitide: 100.571
     amphoe_pid: '1033'
     changwat_pid: '10'
   - pid: '103303'
-    name: 
+    name: Phra Khanong
     latitude: 13.707
     longitide: 100.595
     amphoe_pid: '1033'
     changwat_pid: '10'
   - pid: '103401'
-    name: 
+    name: Suan Luang
     latitude: 13.726
     longitide: 100.628
     amphoe_pid: '1034'
     changwat_pid: '10'
   - pid: '103501'
-    name: 
+    name: Bang Khun Thian
     latitude: 13.694
     longitide: 100.45
     amphoe_pid: '1035'
     changwat_pid: '10'
   - pid: '103502'
-    name: 
+    name: Bang Kho
     latitude: 13.702
     longitide: 100.476
     amphoe_pid: '1035'
     changwat_pid: '10'
   - pid: '103503'
-    name: 
+    name: Bang Mot
     latitude: 13.672
     longitide: 100.468
     amphoe_pid: '1035'
     changwat_pid: '10'
   - pid: '103504'
-    name: 
+    name: Chom Thong
     latitude: 13.693
     longitide: 100.468
     amphoe_pid: '1035'
     changwat_pid: '10'
   - pid: '103602'
-    name: 
+    name: Seekan
     latitude: 13.925
     longitide: 100.593
     amphoe_pid: '1036'
@@ -800,109 +800,109 @@ en:
     amphoe_pid: '1036'
     changwat_pid: '10'
   - pid: '103701'
-    name: 
+    name: Thung Phaya Thai
     latitude: 13.763
     longitide: 100.53
     amphoe_pid: '1037'
     changwat_pid: '10'
   - pid: '103702'
-    name: 
+    name: Thanon Phaya Thai
     latitude: 13.757
     longitide: 100.538
     amphoe_pid: '1037'
     changwat_pid: '10'
   - pid: '103703'
-    name: 
+    name: Thanon Phetchaburi
     latitude: 13.752
     longitide: 100.559
     amphoe_pid: '1037'
     changwat_pid: '10'
   - pid: '103704'
-    name: 
+    name: Makkasan
     latitude: 13.752
     longitide: 100.528
     amphoe_pid: '1037'
     changwat_pid: '10'
   - pid: '103801'
-    name: 
+    name: Lat Phrao
     latitude: 13.811
     longitide: 100.612
     amphoe_pid: '1038'
     changwat_pid: '10'
   - pid: '103802'
-    name: 
+    name: Chorakhe Bua
     latitude: 13.84
     longitide: 100.6
     amphoe_pid: '1038'
     changwat_pid: '10'
   - pid: '103901'
-    name: 
+    name: Khlong Toei Nuea
     latitude: 13.743
     longitide: 100.56
     amphoe_pid: '1039'
     changwat_pid: '10'
   - pid: '103902'
-    name: 
+    name: Khlong Tan Nuea
     latitude: 13.736
     longitide: 100.576
     amphoe_pid: '1039'
     changwat_pid: '10'
   - pid: '103903'
-    name: 
+    name: Phra Khanong Nuea
     latitude: 13.719
     longitide: 100.596
     amphoe_pid: '1039'
     changwat_pid: '10'
   - pid: '104001'
-    name: 
+    name: Bang Khae
     latitude: 13.698
     longitide: 100.409
     amphoe_pid: '1040'
     changwat_pid: '10'
   - pid: '104002'
-    name: 
+    name: Bang Khae Nuea
     latitude: 13.72
     longitide: 100.4
     amphoe_pid: '1040'
     changwat_pid: '10'
   - pid: '104003'
-    name: 
+    name: Bang Pai
     latitude: 13.741
     longitide: 100.385
     amphoe_pid: '1040'
     changwat_pid: '10'
   - pid: '104004'
-    name: 
+    name: Lak Song
     latitude: 13.683
     longitide: 100.396
     amphoe_pid: '1040'
     changwat_pid: '10'
   - pid: '104101'
-    name: 
+    name: Thung Song Hong
     latitude: 13.883
     longitide: 100.564
     amphoe_pid: '1041'
     changwat_pid: '10'
   - pid: '104102'
-    name: 
+    name: Talat Bang Khen
     latitude: 13.871
     longitide: 100.58
     amphoe_pid: '1041'
     changwat_pid: '10'
   - pid: '104201'
-    name: 
+    name: Sai Mai
     latitude: 13.921
     longitide: 100.654
     amphoe_pid: '1042'
     changwat_pid: '10'
   - pid: '104202'
-    name: 
+    name: Ao Ngoen
     latitude: 13.896
     longitide: 100.672
     amphoe_pid: '1042'
     changwat_pid: '10'
   - pid: '104203'
-    name: 
+    name: Khlong Thanon
     latitude: 13.898
     longitide: 100.63
     amphoe_pid: '1042'
@@ -920,13 +920,13 @@ en:
     amphoe_pid: '1043'
     changwat_pid: '10'
   - pid: '104401'
-    name: 
+    name: Saphan Sung
     latitude: 13.761
     longitide: 100.688
     amphoe_pid: '1044'
     changwat_pid: '10'
   - pid: '104501'
-    name: 
+    name: Wang Thonglang
     latitude: 13.779
     longitide: 100.609
     amphoe_pid: '1045'
@@ -950,115 +950,115 @@ en:
     amphoe_pid: '1045'
     changwat_pid: '10'
   - pid: '104601'
-    name: 
+    name: Sam Wa Tawantok
     latitude: 13.889
     longitide: 100.708
     amphoe_pid: '1046'
     changwat_pid: '10'
   - pid: '104602'
-    name: 
+    name: Sam Wa Tawan Ok
     latitude: 13.896
     longitide: 100.76
     amphoe_pid: '1046'
     changwat_pid: '10'
   - pid: '104603'
-    name: 
+    name: Bang Chan
     latitude: 13.839
     longitide: 100.7
     amphoe_pid: '1046'
     changwat_pid: '10'
   - pid: '104604'
-    name: 
+    name: Sai Kong Din
     latitude: 13.854
     longitide: 100.745
     amphoe_pid: '1046'
     changwat_pid: '10'
   - pid: '104605'
-    name: 
+    name: Sai Kong Din Tai
     latitude: 13.861
     longitide: 100.786
     amphoe_pid: '1046'
     changwat_pid: '10'
   - pid: '104701'
-    name: 
+    name: Bang Na
     latitude: 13.672
     longitide: 100.616
     amphoe_pid: '1047'
     changwat_pid: '10'
   - pid: '104801'
-    name: 
+    name: Thawi Watthana
     latitude: 13.758
     longitide: 100.348
     amphoe_pid: '1048'
     changwat_pid: '10'
   - pid: '104802'
-    name: 
+    name: Sala Thammasop
     latitude: 13.783
     longitide: 100.39
     amphoe_pid: '1048'
     changwat_pid: '10'
   - pid: '104901'
-    name: 
+    name: Bang Mot
     latitude: 13.651
     longitide: 100.51
     amphoe_pid: '1049'
     changwat_pid: '10'
   - pid: '104902'
-    name: 
+    name: Thung Khru
     latitude: 13.614
     longitide: 100.497
     amphoe_pid: '1049'
     changwat_pid: '10'
   - pid: '105001'
-    name: 
+    name: Bang Bon
     latitude: 13.646
     longitide: 100.37
     amphoe_pid: '1050'
     changwat_pid: '10'
   - pid: '110101'
-    name: 
+    name: Thetsaban Nakhon Samut Prakan
     latitude: 13.593
     longitide: 100.597
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110102'
-    name: 
+    name: Sam Rong Nua
     latitude: 13.649
     longitide: 100.617
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110103'
-    name: 
+    name: Bang Muang
     latitude: 13.601
     longitide: 100.622
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110104'
-    name: 
+    name: Thai Ban
     latitude: 13.556
     longitide: 100.599
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110105'
-    name: 
+    name: Thai Ban Mai
     latitude: 13.572
     longitide: 100.621
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110108'
-    name: 
+    name: Bang Pu Mai
     latitude: 13.526
     longitide: 100.67
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110110'
-    name: 
+    name: Phraeksa
     latitude: 13.564
     longitide: 100.653
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110111'
-    name: 
+    name: Bang Prong
     latitude: 13.623
     longitide: 100.565
     amphoe_pid: '1101'
@@ -1070,7 +1070,7 @@ en:
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110113'
-    name: 
+    name: Bang Duan
     latitude: 13.622
     longitide: 100.581
     amphoe_pid: '1101'
@@ -1082,97 +1082,97 @@ en:
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110115'
-    name: 
+    name: Thepharak
     latitude: 13.634
     longitide: 100.61
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110117'
-    name: 
+    name: Phraeksa Mai
     latitude: 13.559
     longitide: 100.691
     amphoe_pid: '1101'
     changwat_pid: '11'
   - pid: '110201'
-    name: 
+    name: Bang Bo
     latitude: 13.611
     longitide: 100.862
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110202'
-    name: 
+    name: Ban Rakat
     latitude: 13.639
     longitide: 100.904
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110203'
-    name: 
+    name: Bang Phli Noi
     latitude: 13.574
     longitide: 100.9
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110204'
-    name: 
+    name: Bang Phriang
     latitude: 13.545
     longitide: 100.805
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110205'
-    name: 
+    name: Khlong Dan
     latitude: 13.511
     longitide: 100.835
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110206'
-    name: 
+    name: Khlong Suan
     latitude: 13.659
     longitide: 100.925
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110207'
-    name: 
+    name: Preng
     latitude: 13.672
     longitide: 100.881
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110208'
-    name: 
+    name: Khlong Niyom Yatra
     latitude: 13.624
     longitide: 100.935
     amphoe_pid: '1102'
     changwat_pid: '11'
   - pid: '110301'
-    name: 
+    name: Bang Phli Yai
     latitude: 13.618
     longitide: 100.694
     amphoe_pid: '1103'
     changwat_pid: '11'
   - pid: '110302'
-    name: 
+    name: Bang Kaeo
     latitude: 13.642
     longitide: 100.662
     amphoe_pid: '1103'
     changwat_pid: '11'
   - pid: '110303'
-    name: 
+    name: Bang Pla
     latitude: 13.561
     longitide: 100.739
     amphoe_pid: '1103'
     changwat_pid: '11'
   - pid: '110304'
-    name: 
+    name: Bang Chalong
     latitude: 13.623
     longitide: 100.755
     amphoe_pid: '1103'
     changwat_pid: '11'
   - pid: '110308'
-    name: 
+    name: Racha Thewa
     latitude: 13.681
     longitide: 100.733
     amphoe_pid: '1103'
     changwat_pid: '11'
   - pid: '110309'
-    name: 
+    name: Nong Prue
     latitude: 13.678
     longitide: 100.75
     amphoe_pid: '1103'
@@ -5810,7 +5810,7 @@ en:
     amphoe_pid: '2003'
     changwat_pid: '20'
   - pid: '200401'
-    name: 
+    name: Bang Lamung
     latitude: 13.052
     longitide: 100.922
     amphoe_pid: '2004'
@@ -5858,7 +5858,7 @@ en:
     amphoe_pid: '2004'
     changwat_pid: '20'
   - pid: '200409'
-    name: 
+    name: Pattaya
     latitude: 12.91
     longitide: 100.884
     amphoe_pid: '2004'
@@ -6056,7 +6056,7 @@ en:
     amphoe_pid: '2007'
     changwat_pid: '20'
   - pid: '200703'
-    name: 
+    name: Thung Suk La
     latitude: 13.097
     longitide: 100.912
     amphoe_pid: '2007'
@@ -8042,7 +8042,7 @@ en:
     amphoe_pid: '2507'
     changwat_pid: '25'
   - pid: '250709'
-    name: 
+    name: Pho Ngam
     latitude: 14.214
     longitide: 101.466
     amphoe_pid: '2507'
@@ -8312,7 +8312,7 @@ en:
     amphoe_pid: '2603'
     changwat_pid: '26'
   - pid: '260401'
-    name: 
+    name: Phra Achan
     latitude: 13.986
     longitide: 101.02
     amphoe_pid: '2604'
@@ -11750,7 +11750,7 @@ en:
     amphoe_pid: '3202'
     changwat_pid: '32'
   - pid: '320209'
-    name: 
+    name: Nong Ruea
     latitude: 15.312
     longitide: 103.557
     amphoe_pid: '3202'
@@ -13754,7 +13754,7 @@ en:
     amphoe_pid: '3322'
     changwat_pid: '33'
   - pid: '340101'
-    name: 
+    name: Nai Muang
     latitude: 15.232
     longitide: 104.859
     amphoe_pid: '3401'
@@ -14882,7 +14882,7 @@ en:
     amphoe_pid: '3424'
     changwat_pid: '34'
   - pid: '342404'
-    name: 
+    name: Kham Hai Yai
     latitude: 15.372
     longitide: 104.968
     amphoe_pid: '3424'
@@ -16622,319 +16622,319 @@ en:
     amphoe_pid: '3707'
     changwat_pid: '37'
   - pid: '380101'
-    name: 
+    name: Bueng Kan
     latitude: 18.331
     longitide: 103.679
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380102'
-    name: 
+    name: Non Sombun
     latitude: 18.284
     longitide: 103.638
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380103'
-    name: 
+    name: Nong Kheng
     latitude: 18.356
     longitide: 103.468
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380104'
-    name: 
+    name: Ho Kham
     latitude: 18.406
     longitide: 103.38
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380105'
-    name: 
+    name: Nong Loeng
     latitude: 18.328
     longitide: 103.393
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380106'
-    name: 
+    name: Khok Kong
     latitude: 18.298
     longitide: 103.772
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380107'
-    name: 
+    name: Na Sawan
     latitude: 18.265
     longitide: 103.581
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380108'
-    name: 
+    name: Khai Si
     latitude: 18.403
     longitide: 103.508
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380109'
-    name: 
+    name: Chiyaphon
     latitude: 18.24
     longitide: 103.839
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380110'
-    name: 
+    name: Wisit
     latitude: 18.359
     longitide: 103.592
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380111'
-    name: 
+    name: Kham Na Di
     latitude: 18.219
     longitide: 103.593
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380112'
-    name: 
+    name: Pong Pueai
     latitude: 18.332
     longitide: 103.531
     amphoe_pid: '3801'
     changwat_pid: '38'
   - pid: '380201'
-    name: 
+    name: Si Chomphu
     latitude: 18.044
     longitide: 103.679
     amphoe_pid: '3802'
     changwat_pid: '38'
   - pid: '380202'
-    name: 
+    name: Don Ya Nang
     latitude: 18.046
     longitide: 103.616
     amphoe_pid: '3802'
     changwat_pid: '38'
   - pid: '380203'
-    name: 
+    name: Phon Charoen
     latitude: 18.031
     longitide: 103.711
     amphoe_pid: '3802'
     changwat_pid: '38'
   - pid: '380204'
-    name: 
+    name: Nong Hua Chang
     latitude: 18.125
     longitide: 103.583
     amphoe_pid: '3802'
     changwat_pid: '38'
   - pid: '380205'
-    name: 
+    name: Wang Chomphu
     latitude: 17.983
     longitide: 103.683
     amphoe_pid: '3802'
     changwat_pid: '38'
   - pid: '380206'
-    name: 
+    name: Pa Faek
     latitude: 18.094
     longitide: 103.698
     amphoe_pid: '3802'
     changwat_pid: '38'
   - pid: '380207'
-    name: 
+    name: Sri Samran
     latitude: 18.121
     longitide: 103.646
     amphoe_pid: '3802'
     changwat_pid: '38'
   - pid: '380301'
-    name: 
+    name: So
     latitude: 18.039
     longitide: 103.391
     amphoe_pid: '3803'
     changwat_pid: '38'
   - pid: '380302'
-    name: 
+    name: Nong Phan Tha
     latitude: 18.129
     longitide: 103.384
     amphoe_pid: '3803'
     changwat_pid: '38'
   - pid: '380303'
-    name: 
+    name: Si Chomphu
     latitude: 18.271
     longitide: 103.464
     amphoe_pid: '3803'
     changwat_pid: '38'
   - pid: '380304'
-    name: 
+    name: Kham Kaeo
     latitude: 18.093
     longitide: 103.489
     amphoe_pid: '3803'
     changwat_pid: '38'
   - pid: '380305'
-    name: 
+    name: Bua Tum
     latitude: 18.072
     longitide: 103.364
     amphoe_pid: '3803'
     changwat_pid: '38'
   - pid: '380306'
-    name: 
+    name: Tham Charoen
     latitude: 18.208
     longitide: 103.497
     amphoe_pid: '3803'
     changwat_pid: '38'
   - pid: '380307'
-    name: 
+    name: Lao Thong
     latitude: 18.144
     longitide: 103.442
     amphoe_pid: '3803'
     changwat_pid: '38'
   - pid: '380401'
-    name: 
+    name: Seka
     latitude: 17.964
     longitide: 103.945
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380402'
-    name: 
+    name: Sang
     latitude: 17.839
     longitide: 103.958
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380403'
-    name: 
+    name: Tha Kok Daeng
     latitude: 17.911
     longitide: 103.816
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380404'
-    name: 
+    name: Ban Tong
     latitude: 18.099
     longitide: 103.946
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380405'
-    name: 
+    name: Pong Hai
     latitude: 17.976
     longitide: 103.873
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380406'
-    name: 
+    name: Nam Chan
     latitude: 18.063
     longitide: 103.894
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380407'
-    name: 
+    name: Tha Saad
     latitude: 17.975
     longitide: 103.744
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380408'
-    name: 
+    name: Nong Thum
     latitude: 17.914
     longitide: 103.891
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380409'
-    name: 
+    name: Sok Kam
     latitude: 18.075
     longitide: 104.015
     amphoe_pid: '3804'
     changwat_pid: '38'
   - pid: '380501'
-    name: 
+    name: Pak Khat
     latitude: 18.343
     longitide: 103.316
     amphoe_pid: '3805'
     changwat_pid: '38'
   - pid: '380502'
-    name: 
+    name: Nong Yong
     latitude: 18.208
     longitide: 103.351
     amphoe_pid: '3805'
     changwat_pid: '38'
   - pid: '380503'
-    name: 
+    name: Na Kang
     latitude: 18.382
     longitide: 103.285
     amphoe_pid: '3805'
     changwat_pid: '38'
   - pid: '380504'
-    name: 
+    name: Non Sila
     latitude: 18.292
     longitide: 103.346
     amphoe_pid: '3805'
     changwat_pid: '38'
   - pid: '380505'
-    name: 
+    name: Som Sanuk
     latitude: 18.222
     longitide: 103.398
     amphoe_pid: '3805'
     changwat_pid: '38'
   - pid: '380506'
-    name: 
+    name: Na Dong
     latitude: 18.256
     longitide: 103.304
     amphoe_pid: '3805'
     changwat_pid: '38'
   - pid: '380601'
-    name: 
+    name: Bueng Khong Long
     latitude: 18.002
     longitide: 104.045
     amphoe_pid: '3806'
     changwat_pid: '38'
   - pid: '380602'
-    name: 
+    name: Pho Mak Khaeng
     latitude: 17.941
     longitide: 104.075
     amphoe_pid: '3806'
     changwat_pid: '38'
   - pid: '380603'
-    name: 
+    name: Dong Bang
     latitude: 18.033
     longitide: 104.133
     amphoe_pid: '3806'
     changwat_pid: '38'
   - pid: '380604'
-    name: 
+    name: Tha Dok Kham
     latitude: 18.123
     longitide: 104.058
     amphoe_pid: '3806'
     changwat_pid: '38'
   - pid: '380701'
-    name: 
+    name: Si Wilai
     latitude: 18.225
     longitide: 103.732
     amphoe_pid: '3807'
     changwat_pid: '38'
   - pid: '380702'
-    name: 
+    name: Chumphu Phon
     latitude: 18.146
     longitide: 103.714
     amphoe_pid: '3807'
     changwat_pid: '38'
   - pid: '380703'
-    name: 
+    name: Na Saeng
     latitude: 18.082
     longitide: 103.843
     amphoe_pid: '3807'
     changwat_pid: '38'
   - pid: '380704'
-    name: 
+    name: Na Sabaeng
     latitude: 18.14
     longitide: 103.814
     amphoe_pid: '3807'
     changwat_pid: '38'
   - pid: '380705'
-    name: 
+    name: Na Sing
     latitude: 18.212
     longitide: 103.789
     amphoe_pid: '3807'
     changwat_pid: '38'
   - pid: '380801'
-    name: 
+    name: Bung Khla
     latitude: 18.252
     longitide: 103.962
     amphoe_pid: '3808'
     changwat_pid: '38'
   - pid: '380802'
-    name: 
+    name: Nong Doen
     latitude: 18.294
     longitide: 103.925
     amphoe_pid: '3808'
     changwat_pid: '38'
   - pid: '380803'
-    name: 
+    name: Khok Kwang
     latitude: 18.218
     longitide: 104.01
     amphoe_pid: '3808'
@@ -18470,19 +18470,19 @@ en:
     amphoe_pid: '4025'
     changwat_pid: '40'
   - pid: '402602'
-    name: 
+    name: Nai Mueang
     latitude: 16.742
     longitide: 102.259
     amphoe_pid: '4026'
     changwat_pid: '40'
   - pid: '402608'
-    name: 
+    name: 'Khao Noi '
     latitude: 16.723
     longitide: 102.33
     amphoe_pid: '4026'
     changwat_pid: '40'
   - pid: '402615'
-    name: 
+    name: Mueang Kao Phatthana
     latitude: 16.625
     longitide: 102.206
     amphoe_pid: '4026'
@@ -18548,7 +18548,7 @@ en:
     amphoe_pid: '4101'
     changwat_pid: '41'
   - pid: '410111'
-    name: 
+    name: Na Kha
     latitude: 17.54
     longitide: 102.849
     amphoe_pid: '4101'
@@ -20378,7 +20378,7 @@ en:
     amphoe_pid: '4401'
     changwat_pid: '44'
   - pid: '440109'
-    name: 
+    name: Tha Song Khon
     latitude: 16.163
     longitide: 103.15
     amphoe_pid: '4401'
@@ -20702,7 +20702,7 @@ en:
     amphoe_pid: '4406'
     changwat_pid: '44'
   - pid: '440611'
-    name: 
+    name: Bua Mat
     latitude: 15.897
     longitide: 103.202
     amphoe_pid: '4406'
@@ -20882,7 +20882,7 @@ en:
     amphoe_pid: '4408'
     changwat_pid: '44'
   - pid: '440828'
-    name: 
+    name: Nong Bua
     latitude: 15.591
     longitide: 103.106
     amphoe_pid: '4408'
@@ -21620,7 +21620,7 @@ en:
     amphoe_pid: '4507'
     changwat_pid: '45'
   - pid: '450710'
-    name: 
+    name: Kham Na Di
     latitude: 16.396
     longitide: 103.915
     amphoe_pid: '4507'
@@ -22190,7 +22190,7 @@ en:
     amphoe_pid: '4517'
     changwat_pid: '45'
   - pid: '451801'
-    name: 
+    name: Chiang Khwan
     latitude: 16.191
     longitide: 103.724
     amphoe_pid: '4518'
@@ -22214,13 +22214,13 @@ en:
     amphoe_pid: '4518'
     changwat_pid: '45'
   - pid: '451805'
-    name: 
+    name: Mu Mon
     latitude: 16.101
     longitide: 103.705
     amphoe_pid: '4518'
     changwat_pid: '45'
   - pid: '451806'
-    name: 
+    name: Ban Khueang
     latitude: 16.15
     longitide: 103.71
     amphoe_pid: '4518'
@@ -22250,7 +22250,7 @@ en:
     amphoe_pid: '4519'
     changwat_pid: '45'
   - pid: '452001'
-    name: 
+    name: Thung Khao Luang
     latitude: 16.032
     longitide: 103.853
     amphoe_pid: '4520'
@@ -22268,7 +22268,7 @@ en:
     amphoe_pid: '4520'
     changwat_pid: '45'
   - pid: '452004'
-    name: 
+    name: Ma Ba
     latitude: 16.039
     longitide: 103.889
     amphoe_pid: '4520'
@@ -24602,7 +24602,7 @@ en:
     amphoe_pid: '4904'
     changwat_pid: '49'
   - pid: '490501'
-    name: 
+    name: Ban Song
     latitude: 16.569
     longitide: 104.451
     amphoe_pid: '4905'
@@ -24764,7 +24764,7 @@ en:
     amphoe_pid: '5001'
     changwat_pid: '50'
   - pid: '500109'
-    name: 
+    name: Suthep
     latitude: 18.768
     longitide: 98.921
     amphoe_pid: '5001'
@@ -26222,9 +26222,27 @@ en:
     amphoe_pid: '5108'
     changwat_pid: '51'
   - pid: '520101'
-    name: 
+    name: Hua Wiang
     latitude: 18.29
     longitide: 99.492
+    amphoe_pid: '5201'
+    changwat_pid: '52'
+  - pid: '520102'
+    name: Wiang Nuea
+    latitude: 18.2988493
+    longitide: 99.4922826
+    amphoe_pid: '5201'
+    changwat_pid: '52'
+  - pid: '520103'
+    name: Suan Dok
+    latitude: 18.2871564
+    longitide: 99.4912772
+    amphoe_pid: '5201'
+    changwat_pid: '52'
+  - pid: '520104'
+    name: Sop Tui
+    latitude: 18.287143
+    longitide: 99.4604608
     amphoe_pid: '5201'
     changwat_pid: '52'
   - pid: '520105'
@@ -28856,7 +28874,7 @@ en:
     amphoe_pid: '5704'
     changwat_pid: '57'
   - pid: '570404'
-    name: 
+    name: Mae Loi
     latitude: 19.573
     longitide: 100.063
     amphoe_pid: '5704'
@@ -31340,7 +31358,7 @@ en:
     amphoe_pid: '6211'
     changwat_pid: '62'
   - pid: '630101'
-    name: 
+    name: Rahaeng
     latitude: 16.862
     longitide: 99.129
     amphoe_pid: '6301'
@@ -31718,7 +31736,7 @@ en:
     amphoe_pid: '6401'
     changwat_pid: '64'
   - pid: '640104'
-    name: 
+    name: Pak Khwae
     latitude: 17.043
     longitide: 99.824
     amphoe_pid: '6401'
@@ -32780,91 +32798,91 @@ en:
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660102'
-    name: 
+    name: Phai Khwang
     latitude: 16.504
     longitide: 100.303
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660103'
-    name: 
+    name: Yan Yao
     latitude: 16.507
     longitide: 100.268
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660104'
-    name: 
+    name: Tha Lo
     latitude: 16.51
     longitide: 100.352
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660105'
-    name: 
+    name: Pak Thang
     latitude: 16.453
     longitide: 100.366
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660106'
-    name: 
+    name: Khlong Khachen
     latitude: 16.458
     longitide: 100.293
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660107'
-    name: 
+    name: Rong Chang
     latitude: 16.422
     longitide: 100.259
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660108'
-    name: 
+    name: Mueang Kao
     latitude: 16.393
     longitide: 100.303
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660109'
-    name: 
+    name: Tha Luang
     latitude: 16.419
     longitide: 100.363
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660110'
-    name: 
+    name: Ban Bueng
     latitude: 16.394
     longitide: 100.427
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660111'
-    name: 
+    name: Kha Mang
     latitude: 16.369
     longitide: 100.373
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660112'
-    name: 
+    name: Dong Pa Kham
     latitude: 16.295
     longitide: 100.367
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660113'
-    name: 
+    name: Hua Dong
     latitude: 16.332
     longitide: 100.441
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660115'
-    name: 
+    name: Pa Makhap
     latitude: 16.501
     longitide: 100.392
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660119'
-    name: 
+    name: Sai Khum Ho
     latitude: 16.407
     longitide: 100.486
     amphoe_pid: '6601'
     changwat_pid: '66'
   - pid: '660120'
-    name: 
+    name: Dong Klang
     latitude: 16.335
     longitide: 100.363
     amphoe_pid: '6601'
@@ -33692,7 +33710,7 @@ en:
     amphoe_pid: '6705'
     changwat_pid: '67'
   - pid: '670509'
-    name: 
+    name: Phu Nam Yot
     latitude: 15.53
     longitide: 100.92
     amphoe_pid: '6705'
@@ -37808,7 +37826,7 @@ en:
     amphoe_pid: '8001'
     changwat_pid: '80'
   - pid: '800108'
-    name: 
+    name: Na Sai
     latitude: 8.479
     longitide: 99.932
     amphoe_pid: '8001'
@@ -38792,7 +38810,7 @@ en:
     amphoe_pid: '8023'
     changwat_pid: '80'
   - pid: '810101'
-    name: 
+    name: Pak Nam
     latitude: 8.09
     longitide: 98.905
     amphoe_pid: '8101'
@@ -39410,7 +39428,7 @@ en:
     amphoe_pid: '8301'
     changwat_pid: '83'
   - pid: '830105'
-    name: 
+    name: Ratsada
     latitude: 7.834
     longitide: 98.423
     amphoe_pid: '8301'
@@ -39944,7 +39962,7 @@ en:
     amphoe_pid: '8411'
     changwat_pid: '84'
   - pid: '841201'
-    name: 
+    name: Na San
     latitude: 8.812
     longitide: 99.359
     amphoe_pid: '8412'
@@ -39980,7 +39998,7 @@ en:
     amphoe_pid: '8412'
     changwat_pid: '84'
   - pid: '841207'
-    name: 
+    name: Khuan Suban
     latitude: 8.876
     longitide: 99.367
     amphoe_pid: '8412'
@@ -42020,13 +42038,13 @@ en:
     amphoe_pid: '9202'
     changwat_pid: '92'
   - pid: '920221'
-    name: 
+    name: Ko Look Mai
     latitude: 7.291
     longitide: 99.45
     amphoe_pid: '9202'
     changwat_pid: '92'
   - pid: '920222'
-    name: 
+    name: Ko Nok
     latitude: 7.272
     longitide: 99.475
     amphoe_pid: '9202'
@@ -42140,7 +42158,7 @@ en:
     amphoe_pid: '9204'
     changwat_pid: '92'
   - pid: '920414'
-    name: 
+    name: Ko Khong Khao
     latitude: 7.152
     longitide: 99.651
     amphoe_pid: '9204'
@@ -42728,13 +42746,13 @@ en:
     amphoe_pid: '9309'
     changwat_pid: '93'
   - pid: '931001'
-    name: 
+    name: Pa Phayom
     latitude: 7.86
     longitide: 99.947
     amphoe_pid: '9310'
     changwat_pid: '93'
   - pid: '931002'
-    name: 
+    name: Lan Khoi
     latitude: 7.831
     longitide: 99.78
     amphoe_pid: '9310'
@@ -42746,7 +42764,7 @@ en:
     amphoe_pid: '9310'
     changwat_pid: '93'
   - pid: '931004'
-    name: 
+    name: Ban Phrao
     latitude: 7.818
     longitide: 99.948
     amphoe_pid: '9310'
@@ -43478,7 +43496,7 @@ en:
     amphoe_pid: '9501'
     changwat_pid: '95'
   - pid: '950103'
-    name: 
+    name: Yupo
     latitude: 6.597
     longitide: 101.283
     amphoe_pid: '9501'
