@@ -38,7 +38,8 @@
       },
       {
         "pid": "1008",
-        "name": "Pom Prap Sattruphai",
+        "name": "Pom Prap Sattru Phai",
+        "alternate_name": "Pom Prap Sattruphai",
         "changwat_pid": "10"
       },
       {
@@ -58,7 +59,8 @@
       },
       {
         "pid": "1012",
-        "name": "Yannawa",
+        "name": "Yan Nawa",
+        "alternate_name": "Yannawa",
         "changwat_pid": "10"
       },
       {
@@ -133,12 +135,14 @@
       },
       {
         "pid": "1027",
-        "name": "Bung Kum",
+        "name": "Bueng Kum",
+        "alternate_name": "Bung Kum",
         "changwat_pid": "10"
       },
       {
         "pid": "1028",
-        "name": "Sa Thon",
+        "name": "Sathon",
+        "alternate_name": "Sa Thon",
         "changwat_pid": "10"
       },
       {
@@ -183,7 +187,8 @@
       },
       {
         "pid": "1037",
-        "name": "Rat Thewi",
+        "name": "Ratchathewi",
+        "alternate_name": "Rat Thewi",
         "changwat_pid": "10"
       },
       {
@@ -213,7 +218,8 @@
       },
       {
         "pid": "1043",
-        "name": "Khanna Yao",
+        "name": "Khan Na Yao",
+        "alternate_name": "Khanna Yao",
         "changwat_pid": "10"
       },
       {
@@ -223,7 +229,8 @@
       },
       {
         "pid": "1045",
-        "name": "Wang Thong Lang",
+        "name": "Wang Thonglang",
+        "alternate_name": "Wang Thong Lang",
         "changwat_pid": "10"
       },
       {
@@ -243,7 +250,8 @@
       },
       {
         "pid": "1049",
-        "name": "Thung Khu",
+        "name": "Thung Khru",
+        "alternate_name": "Thung Khu",
         "changwat_pid": "10"
       },
       {
