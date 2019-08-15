@@ -1,12 +1,26 @@
+require 'pry'
 require 'csv'
 require 'json'
+require 'open-uri'
+
+JQUERY_THAILAND_JSON_URL = 'https://raw.githubusercontent.com/earthchie/jquery.Thailand.js/master/jquery.Thailand.js/database/raw_database/raw_database.json'.freeze
+
+def zip_code_data
+  @zip_code_data ||= JSON.load(open(JQUERY_THAILAND_JSON_URL)).group_by do |s|
+      s['zipcode']
+    end.map do |zip, tambons|
+      tambons.map do |tambon|
+        { tambon['district_code'] => zip }
+      end.reduce(&:merge)
+    end.reduce(&:merge)
+end
 
 @thailand = {}
 
 CSV.foreach('data/tambons.csv', headers:true) do |row|
   if @thailand[row[7]].nil?
     @thailand[row[7]] = {
-      name: {
+      info: {
         thai: row[8].gsub(/จ.\s/, ''),
         english: row[9]
       },
@@ -16,8 +30,8 @@ CSV.foreach('data/tambons.csv', headers:true) do |row|
 
   if @thailand[row[7]][:amphoes][row[4]].nil?
     @thailand[row[7]][:amphoes][row[4]] = {
-      name: {
-        thai: row[5].gsub(/อ.\s/, ''),
+      info: {
+        thai: row[5].gsub(/อ.\s|เขต\s/, ''),
         english: row[6]
       },
       tambons: {}
@@ -25,9 +39,10 @@ CSV.foreach('data/tambons.csv', headers:true) do |row|
   end
 
   @thailand[row[7]][:amphoes][row[4]][:tambons][row[1]] = {
-    name: {
-      thai: row[2].gsub(/ต.\s/, ''),
+    info: {
+      thai: row[2].gsub(/ต.\s|แขวง\s/, ''),
       english: row[3],
+      zipcode: zip_code_data[row[1].to_i]
     },
     coordinates: {
       lat: row[10],
