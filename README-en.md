@@ -1,7 +1,7 @@
 Data of political area in Thailand
 ================================
 
-Contain name and relations of 77 changwats, 926 amphoes and 7364 tambons.
+Contain name and relations of 77 changwats, 926 amphoes and 7364 tambons. Also with zipcode data from [jquery.THailand.js](https://github.com/earthchie/jquery.Thailand.js)
 
 Data types
 --------------
