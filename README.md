@@ -2,7 +2,7 @@
 ================================
 
 จำนวนทั้งหมด 77 จังหวัด 928 อำเภอ 7364 ตำบล
-และฐานข้อมูลตั้งต้นเลขไปรษณีย์จาก [jquery.THailand.js](https://github.com/earthchie/jquery.Thailand.js)
+และฐานข้อมูลตั้งต้นเลขไปรษณีย์จาก [jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js)
 
 ประเภทของข้อมูลที่มี
 --------------
@@ -20,4 +20,4 @@
 โดยลิขสิทธิ์ของข้อมูลลสามารถอ้างอิงได้จาก แหล่งข้อมูลของฐานข้อมูลที่ใช้ประกอบ
 
 * [DGA](https://data.go.th/TermsAndConditions.aspx)
-* [jquery.THailand.js](https://github.com/earthchie/jquery.Thailand.js#license)
+* [jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js#license)
