@@ -1,72 +1,109 @@
 require 'pry'
 require 'csv'
 require 'json'
+require 'yaml'
 require 'open-uri'
+require_relative 'generate/data'
+require_relative 'generate/utilities'
 
-JQUERY_THAILAND_JSON_URL = 'https://raw.githubusercontent.com/earthchie/jquery.Thailand.js/master/jquery.Thailand.js/database/raw_database/raw_database.json'.freeze
+thailand =  {}
+changwats =  {}
+amphoes   =  {}
+tambons   =  {}
 
-def zip_code_data
-  @zip_code_data ||= JSON.load(open(JQUERY_THAILAND_JSON_URL)).group_by do |s|
-      s['zipcode']
-    end.map do |zip, tambons|
-      tambons.map do |tambon|
-        { tambon['district_code'] => zip }
-      end.reduce(&:merge)
-    end.reduce(&:merge)
-end
-
-@thailand = {}
-
-CSV.foreach('data/tambons.csv', headers:true) do |row|
-  if @thailand[row[7]].nil?
-    @thailand[row[7]] = {
-      info: {
-        thai: row[8].gsub(/จ.\s/, ''),
-        english: row[9]
+tambons_data.each do |row|
+  if thailand[row[7]].nil?
+    thailand[row[7]] = {
+      name: {
+        th: row[8].gsub(/จ\./, '').strip,
+        en: row[9]
       },
       amphoes: {}
     }
-  end
-
-  if @thailand[row[7]][:amphoes][row[4]].nil?
-    @thailand[row[7]][:amphoes][row[4]] = {
-      info: {
-        thai: row[5].gsub(/อ.\s|เขต\s/, ''),
-        english: row[6]
-      },
-      tambons: {}
+    changwats[row[7]] = {
+      name: {
+        th: row[8].gsub(/จ\./, '').strip,
+        en: row[9]
+      }
     }
   end
 
-  @thailand[row[7]][:amphoes][row[4]][:tambons][row[1]] = {
-    info: {
-      thai: row[2].gsub(/ต.\s|แขวง\s/, ''),
-      english: row[3],
-      zipcode: zip_code_data[row[1].to_i]
+  if thailand[row[7]][:amphoes][row[4]].nil?
+    thailand[row[7]][:amphoes][row[4]] = {
+      name: {
+        th: row[5].gsub(/อ\.|เขต/, '').strip,
+        en: row[6]
+      },
+      tambons: {}
+    }
+    amphoes[row[4]] = {
+      name: {
+        th: row[5].gsub(/อ\.|เขต/, '').strip,
+        en: row[6]
+      },
+      changwat_id: row[7]
+    }
+  end
+
+  thailand[row[7]][:amphoes][row[4]][:tambons][row[1]] = {
+    name: {
+      th: row[2].gsub(/ต\.|แขวง/, '').strip,
+      en: row[3]
     },
     coordinates: {
       lat: row[10],
       lng: row[11]
-    }
+    },
+    zipcode: zip_code_data[row[1].to_i]
+  }
+  tambons[row[1]] = {
+    name: {
+      th: row[2].gsub(/ต\.|แขวง/, '').strip,
+      en: row[3]
+    },
+    coordinates: {
+      lat: row[10],
+      lng: row[11]
+    },
+    zipcode: zip_code_data[row[1].to_i],
+    changwat_id: row[7],
+    amphoe_id: row[4]
   }
 end
 
-def sort_by_to_h(h)
-  h.sort_by {|k, v| k}
-   .map {|a| Hash[*a]}
-   .reduce(&:merge)
-end
-
-@thailand.each do |id, c|
+thailand.each do |id, c|
   c[:amphoes].each do |id, a|
     a[:tambons] = sort_by_to_h(a[:tambons])
   end
   c[:amphoes] = sort_by_to_h(c[:amphoes])
 end
-@thailand = sort_by_to_h(@thailand)
 
+thailand = sort_by_to_h(thailand)
 
 File.open("dist/tree.json", 'w') do |f|
-  f.write JSON.pretty_generate(@thailand)
+  f.write JSON.pretty_generate(thailand)
 end
 
+File.open("dist/changwats.json", 'w') do |f|
+  f.write JSON.pretty_generate(sort_by_key(changwats))
+end
+
+File.open("dist/changwats.yaml", 'w') do |f|
+  f.write sort_by_key(changwats).to_yaml
+end
+
+File.open("dist/amphoes.json", 'w') do |f|
+  f.write JSON.pretty_generate(sort_by_key(amphoes))
+end
+
+File.open("dist/amphoes.yaml", 'w') do |f|
+  f.write sort_by_key(amphoes).to_yaml
+end
+
+File.open("dist/tambons.json", 'w') do |f|
+  f.write JSON.pretty_generate(sort_by_key(tambons))
+end
+
+File.open("dist/tambons.yaml", 'w') do |f|
+  f.write sort_by_key(tambons).to_yaml
+end

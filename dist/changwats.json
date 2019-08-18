@@ -1,0 +1,464 @@
+{
+  "10": {
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok"
+    }
+  },
+  "11": {
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakarn"
+    }
+  },
+  "12": {
+    "name": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi"
+    }
+  },
+  "13": {
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani"
+    }
+  },
+  "14": {
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya"
+    }
+  },
+  "15": {
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong"
+    }
+  },
+  "16": {
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Lop Buri"
+    }
+  },
+  "17": {
+    "name": {
+      "th": "สิงห์บุรี",
+      "en": "Sing Buri"
+    }
+  },
+  "18": {
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat"
+    }
+  },
+  "19": {
+    "name": {
+      "th": "สระบุรี",
+      "en": "Saraburi"
+    }
+  },
+  "20": {
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri"
+    }
+  },
+  "21": {
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong"
+    }
+  },
+  "22": {
+    "name": {
+      "th": "จันทบุรี",
+      "en": "Chanthaburi"
+    }
+  },
+  "23": {
+    "name": {
+      "th": "ตราด",
+      "en": "Trat"
+    }
+  },
+  "24": {
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao"
+    }
+  },
+  "25": {
+    "name": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri"
+    }
+  },
+  "26": {
+    "name": {
+      "th": "นครนายก",
+      "en": "Nakhon Nayok"
+    }
+  },
+  "27": {
+    "name": {
+      "th": "สระแก้ว",
+      "en": "Sa kaeo"
+    }
+  },
+  "30": {
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima"
+    }
+  },
+  "31": {
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram"
+    }
+  },
+  "32": {
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin"
+    }
+  },
+  "33": {
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket"
+    }
+  },
+  "34": {
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani"
+    }
+  },
+  "35": {
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon"
+    }
+  },
+  "36": {
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum"
+    }
+  },
+  "37": {
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen"
+    }
+  },
+  "38": {
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Bueng Kan"
+    }
+  },
+  "39": {
+    "name": {
+      "th": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu"
+    }
+  },
+  "40": {
+    "name": {
+      "th": "ขอนแก่น",
+      "en": "Khon Kaen"
+    }
+  },
+  "41": {
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani"
+    }
+  },
+  "42": {
+    "name": {
+      "th": "เลย",
+      "en": "Loei"
+    }
+  },
+  "43": {
+    "name": {
+      "th": "หนองคาย",
+      "en": "Nong Khai"
+    }
+  },
+  "44": {
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham"
+    }
+  },
+  "45": {
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et"
+    }
+  },
+  "46": {
+    "name": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin"
+    }
+  },
+  "47": {
+    "name": {
+      "th": "สกลนคร",
+      "en": "Sakon Nakhon"
+    }
+  },
+  "48": {
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom"
+    }
+  },
+  "49": {
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan"
+    }
+  },
+  "50": {
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai"
+    }
+  },
+  "51": {
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun"
+    }
+  },
+  "52": {
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang"
+    }
+  },
+  "53": {
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit"
+    }
+  },
+  "54": {
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae"
+    }
+  },
+  "55": {
+    "name": {
+      "th": "น่าน",
+      "en": "Nan"
+    }
+  },
+  "56": {
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao"
+    }
+  },
+  "57": {
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai"
+    }
+  },
+  "58": {
+    "name": {
+      "th": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son"
+    }
+  },
+  "60": {
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan"
+    }
+  },
+  "61": {
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani"
+    }
+  },
+  "62": {
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet"
+    }
+  },
+  "63": {
+    "name": {
+      "th": "ตาก",
+      "en": "Tak"
+    }
+  },
+  "64": {
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai"
+    }
+  },
+  "65": {
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok"
+    }
+  },
+  "66": {
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit"
+    }
+  },
+  "67": {
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun"
+    }
+  },
+  "70": {
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi"
+    }
+  },
+  "71": {
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi"
+    }
+  },
+  "72": {
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri"
+    }
+  },
+  "73": {
+    "name": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom"
+    }
+  },
+  "74": {
+    "name": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon"
+    }
+  },
+  "75": {
+    "name": {
+      "th": "สมุทรสงคราม",
+      "en": "Samut Songkhram"
+    }
+  },
+  "76": {
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi"
+    }
+  },
+  "77": {
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan"
+    }
+  },
+  "80": {
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat"
+    }
+  },
+  "81": {
+    "name": {
+      "th": "กระบี่",
+      "en": "Krabi"
+    }
+  },
+  "82": {
+    "name": {
+      "th": "พังงา",
+      "en": "Phang-nga"
+    }
+  },
+  "83": {
+    "name": {
+      "th": "ภูเก็ต",
+      "en": "Phuket"
+    }
+  },
+  "84": {
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani"
+    }
+  },
+  "85": {
+    "name": {
+      "th": "ระนอง",
+      "en": "Ranong"
+    }
+  },
+  "86": {
+    "name": {
+      "th": "ชุมพร",
+      "en": "Chumphon"
+    }
+  },
+  "90": {
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla"
+    }
+  },
+  "91": {
+    "name": {
+      "th": "สตูล",
+      "en": "Satun"
+    }
+  },
+  "92": {
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang"
+    }
+  },
+  "93": {
+    "name": {
+      "th": "พัทลุง",
+      "en": "Phatthalung"
+    }
+  },
+  "94": {
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani"
+    }
+  },
+  "95": {
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala"
+    }
+  },
+  "96": {
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat"
+    }
+  }
+}
