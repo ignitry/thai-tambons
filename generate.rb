@@ -80,30 +80,8 @@ end
 
 thailand = sort_by_to_h(thailand)
 
-File.open("dist/tree.json", 'w') do |f|
-  f.write JSON.pretty_generate(thailand)
-end
+output_to_dist(thailand, 'thailand')
+output_to_dist(changwats, 'changwats')
+output_to_dist(amphoes, 'amphoes')
+output_to_dist(tambons, 'tambons')
 
-File.open("dist/changwats.json", 'w') do |f|
-  f.write JSON.pretty_generate(sort_by_key(changwats))
-end
-
-File.open("dist/changwats.yaml", 'w') do |f|
-  f.write sort_by_key(changwats).to_yaml
-end
-
-File.open("dist/amphoes.json", 'w') do |f|
-  f.write JSON.pretty_generate(sort_by_key(amphoes))
-end
-
-File.open("dist/amphoes.yaml", 'w') do |f|
-  f.write sort_by_key(amphoes).to_yaml
-end
-
-File.open("dist/tambons.json", 'w') do |f|
-  f.write JSON.pretty_generate(sort_by_key(tambons))
-end
-
-File.open("dist/tambons.yaml", 'w') do |f|
-  f.write sort_by_key(tambons).to_yaml
-end
