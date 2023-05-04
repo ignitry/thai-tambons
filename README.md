@@ -19,5 +19,5 @@
 
 โดยลิขสิทธิ์ของข้อมูลลสามารถอ้างอิงได้จาก แหล่งข้อมูลของฐานข้อมูลที่ใช้ประกอบ
 
-* [DGA](https://data.go.th/TermsAndConditions.aspx)
+* [DGA](https://data.go.th/pages/dga-open-government-license)
 * [jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js#license)
