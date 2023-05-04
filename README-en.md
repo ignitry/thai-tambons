@@ -17,6 +17,6 @@ License and agreements
 --------------
 Do whatever you want with the script. But data source might have its own license as listed below.
 
-* [DGA](https://data.go.th/TermsAndConditions.aspx)
+* [DGA](https://data.go.th/pages/dga-open-government-license)
 * [jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js#license)
 
